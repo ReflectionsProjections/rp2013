@@ -3,7 +3,6 @@
 <div class="sixteen columns"> <h1 class="page-title">Announcements and News<span class="line"></span></h1>
 </div><!-- Page Title -->
 
-
    <!-- Start Posts -->
    <div class="eleven columns top bottom">
      {% for post in site.categories.news %}
@@ -33,49 +32,7 @@
 
    </div><!-- End Posts -->
 
-
-   <!-- Start Sidebar Widgets -->
-   <div class="five columns bottom">
-
-    <!-- Most Posts -->
-
-      <div id="horizontal-tabs" class="bottom">
-
-        <ul class="tabs">
-          <li id="tab1">Recent</li>
-        </ul>
-        <div class="contents">
-
-        <div id="content1" class="tabscontent">
-          <ul class="most-posts">
-            <li>
-              <a href="single_post.html"><img src="images/img/blog/thumb-1.jpg" alt="" class="pic-2" /></a>
-              <p><a href="single_post.html">Donec seid odio dui. Nullalit libero, alea pharetra augue.</a></p>
-              <span class="color">28 June 2012</span>
-            </li>
-            <li>
-              <a href="single_post.html"><img src="images/img/blog/thumb-2.jpg" alt="" class="pic-2" /></a>
-              <p><a href="single_post.html">Donec seid odio dui. Nullalit libero, alea pharetra augue.</a></p>
-              <span class="color">28 June 2012</span>
-            </li>
-          </ul>
-        </div>
-        </div><!-- End contents -->
-
-      </div><!-- End horizontal-tabs -->
-
-    <!-- End -->
-
-    <!-- Twitter Feed -->
-    <h2 class="title bottom">Twitter Feed <span class="line"></span></h2>
-
-    <div class='tweet query'></div><!-- Tweets Code -->
-
-    <!-- End -->
-
-
-   </div><!-- End Sidebar Widgets -->
-
+   {% include sidebar.html %}
 
    <div class="clearfix"></div>
 {% endblock %}

@@ -76,7 +76,7 @@ changeLayout('boxed');
 $(document).ready(function(){
 
   var startClass = $.cookie('mycookie');
-  $("body").addClass("subtlenet2");
+  $("body").addClass("");
 
 /* crossed */
 $("#crossed").click( function(){
@@ -389,11 +389,11 @@ if ($.cookie('mycookie')) {
 /* Skins Style */
 $(document).ready(function(){
 
-var cookieName = 'blue';
+var cookieName = 'pink';
 
 function changeLayout(layout) {
 $.cookie(cookieName, layout);
-$('head link[name=skins]').attr('href', 'css/skins/' + layout + '.css');
+$('head link[name=skins]').attr('href', '/css/skins/' + layout + '.css');
 }
 
 if( $.cookie(cookieName)) {

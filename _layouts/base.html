@@ -15,52 +15,52 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
   <!-- CSS Style -->
-  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="{{ site.url }}/css/style.css">
 
   <!-- Color Skins -->
-  <link rel="stylesheet" href="css/skins/blue.css" name="skins">
+  <link rel="stylesheet" href="{{ site.url }}/css/skins/green.css" name="skins">
 
   <!-- Layout Style -->
-  <link rel="stylesheet" href="css/layout/boxed.css" name="layout">
+  <link rel="stylesheet" href="{{ site.url }}/css/layout/boxed.css" name="layout">
 
   <!-- Small Icons -->
-  <link rel="stylesheet" href="css/icons.css">
+  <link rel="stylesheet" href="{{ site.url }}/css/icons.css">
 
   <!-- Start JavaScript -->
 
-    <script src="js/jquery-1.7.2.min.js"></script> <!-- jQuery library -->
-    <script src="js/jquery.easing.1.3.min.js"></script> <!-- jQuery Easing -->
-    <script src="js/jquery-ui.min.js"></script> <!-- jQuery Ui -->
-    <script src="js/jquery.cookie.js"></script> <!-- jQuery cookie -->
-    <script src="js/jquery.uniform.min.js"></script> <!-- jQuery Uniform -->
-    <script src="js/ddsmoothmenu.js"></script> <!-- Nav Menu ddsmoothmenu -->
-    <script src="js/jquery.flexslider.js"></script> <!-- Flex Slider  -->
-    <script src="js/jquery.eislideshow.js"></script> <!-- Elastic Slider  -->
-    <script src="js/jquery.iconmenu.js"></script> <!-- Sliding Text and Icon Menu Style  -->
-    <script src="js/colortip.js"></script> <!-- Colortip Tooltip Plugin  -->
-    <script src="js/tytabs.js"></script> <!-- jQuery Plugin tytabs  -->
-    <script src="js/carousel.js"></script> <!-- jQuery Carousel  -->
-    <script src="js/jquery.prettyPhoto.js"></script> <!-- jQuery Prettyphoto  -->
-    <script src="js/jquery.isotope.min.js"></script> <!-- Isotope Filtering  -->
-    <script src="js/selectnav.js"></script> <!-- Responsive Navigation Menu by SelectNav -->
-    <script src="js/jquery.ui.totop.js"></script> <!-- UItoTop plugin  -->
-    <script src="js/custom.js"></script> <!-- Custom Js file for javascript in html -->
-    <script src="js/jquery.tweet.js"></script> <!-- jQuery Tweets -->
-    <script src="js/jflickrfeed.min.js"></script> <!-- jQuery Flickr -->
-    <script src="js/twitter-flickr-options.js"></script> <!-- jQuery Tweets Options -->
-    <script src="js/styleswitch.js"></script> <!-- Style Switcher -->
+    <script src="{{ site.url }}/js/jquery-1.7.2.min.js"></script> <!-- jQuery library -->
+    <script src="{{ site.url }}/js/jquery.easing.1.3.min.js"></script> <!-- jQuery Easing -->
+    <script src="{{ site.url }}/js/jquery-ui.min.js"></script> <!-- jQuery Ui -->
+    <script src="{{ site.url }}/js/jquery.cookie.js"></script> <!-- jQuery cookie -->
+    <script src="{{ site.url }}/js/jquery.uniform.min.js"></script> <!-- jQuery Uniform -->
+    <script src="{{ site.url }}/js/ddsmoothmenu.js"></script> <!-- Nav Menu ddsmoothmenu -->
+    <script src="{{ site.url }}/js/jquery.flexslider.js"></script> <!-- Flex Slider  -->
+    <script src="{{ site.url }}/js/jquery.eislideshow.js"></script> <!-- Elastic Slider  -->
+    <script src="{{ site.url }}/js/jquery.iconmenu.js"></script> <!-- Sliding Text and Icon Menu Style  -->
+    <script src="{{ site.url }}/js/colortip.js"></script> <!-- Colortip Tooltip Plugin  -->
+    <script src="{{ site.url }}/js/tytabs.js"></script> <!-- jQuery Plugin tytabs  -->
+    <script src="{{ site.url }}/js/carousel.js"></script> <!-- jQuery Carousel  -->
+    <script src="{{ site.url }}/js/jquery.prettyPhoto.js"></script> <!-- jQuery Prettyphoto  -->
+    <script src="{{ site.url }}/js/jquery.isotope.min.js"></script> <!-- Isotope Filtering  -->
+    <script src="{{ site.url }}/js/selectnav.js"></script> <!-- Responsive Navigation Menu by SelectNav -->
+    <script src="{{ site.url }}/js/jquery.ui.totop.js"></script> <!-- UItoTop plugin  -->
+    <script src="{{ site.url }}/js/custom.js"></script> <!-- Custom Js file for javascript in html -->
+    <script src="{{ site.url }}/js/jquery.tweet.js"></script> <!-- jQuery Tweets -->
+    <script src="{{ site.url }}/js/jflickrfeed.min.js"></script> <!-- jQuery Flickr -->
+    <script src="{{ site.url }}/js/twitter-flickr-options.js"></script> <!-- jQuery Tweets Options -->
+    <script src="{{ site.url }}/js/styleswitch.js"></script> <!-- Style Switcher -->
 
   <!-- End JavaScript -->
 
   <!--[if lt IE 9]>
-      <script src="js/html5.js"></script>
+      <script src="{{ site.url }}/js/html5.js"></script>
   <![endif]-->
 
   <!-- Favicons -->
-  <link rel="shortcut icon" href="images/favicon/favicon.ico">
-  <link rel="apple-touch-icon" href="images/favicon/apple-touch-icon.png">
-  <link rel="apple-touch-icon" sizes="72x72" href="images/favicon/apple-touch-icon-72x72.png">
-  <link rel="apple-touch-icon" sizes="114x114" href="images/favicon/apple-touch-icon-114x114.png">
+  <link rel="shortcut icon" href="{{ site.url }}/images/favicon/favicon.ico">
+  <link rel="apple-touch-icon" href="{{ site.url }}/images/favicon/apple-touch-icon.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="{{ site.url }}/images/favicon/apple-touch-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="{{ site.url }}/images/favicon/apple-touch-icon-114x114.png">
 
 </head>
 <body>
@@ -72,8 +72,8 @@
 
       <div class="one-third column">
         <div class="logo">
-        <a href="index.html">
-          <img src="images/logo.png" alt="Reflections | Projections Conference" />
+        <a href="{{ site.url }}">
+          <img src="{{ site.url }}/images/logo.png" alt="Reflections | Projections Conference" />
         </a>
         </div>
       </div><!-- End Logo -->
@@ -81,29 +81,29 @@
       <div class="two-thirds column">
         <nav id="menu" class="navigation">
           <ul id="nav">
-            <li><a href="about.html">About</a>
+            <li><a href="{{ site.url }}/about.html">About</a>
               <ul>
-                <li><a href="travel.html">Travel</a></li>
-                <li><a href="history.html">History</a></li>
-                <li><a href="staff.html">Our Staff</a></li>
+                <li><a href="{{ site.url }}/travel.html">Travel</a></li>
+                <li><a href="{{ site.url }}/history.html">History</a></li>
+                <li><a href="{{ site.url }}/staff.html">Our Staff</a></li>
               </ul>
             </li>
-            <li><a href="register.html">Register</a></li>
-            <li><a href="news.html">News</a></li>
-	    <li><a href="speakers.html">Speakers</a></li>
-            <li><a href="career_fairs.html">Career Fairs</a>
+            <li><a href="{{ site.url }}/register.html">Register</a></li>
+            <li><a href="{{ site.url }}/news.html">News</a></li>
+	    <li><a href="{{ site.url }}/speakers.html">Speakers</a></li>
+            <li><a href="{{ site.url }}/career_fairs.html">Career Fairs</a>
               <ul>
-                <li><a href="career_fairs.html#startupfair">Startup Fair</a></li>
-                <li><a href="career_fairs.html#jobfair">Job Fair</a></li>
+                <li><a href="{{ site.url }}/career_fairs.html#startupfair">Startup Fair</a></li>
+                <li><a href="{{ site.url }}/career_fairs.html#jobfair">Job Fair</a></li>
               </ul>
             </li>
 	    <li><a href="#">More Events</a>
 	      <ul>
-		<li><a href="mechmania.html">MechMania</a></li>
+		<li><a href="{{ site.url }}/mechmania.html">MechMania</a></li>
 		<li><a href="http://puzzlebang.com">Puzzlebang</a></li>
 	      </ul>
 	    </li>
-            <li><a href="contact.html">Contact</a></li>
+            <li><a href="{{ site.url }}/contact.html">Contact</a></li>
           </ul>
 
 
@@ -159,12 +159,12 @@
 
       <div class="eight columns">
         <div class="social">
-          <a href="#"><img src="images/icons/twitter.png" alt="" /></a>
-          <a href="#"><img src="images/icons/facebook.png" alt="" /></a>
-          <a href="#"><img src="images/icons/skype.png" alt="" /></a>
-          <a href="#"><img src="images/icons/digg.png" alt="" /></a>
-          <a href="#"><img src="images/icons/linkedin.png" alt="" /></a>
-          <a href="#"><img src="images/icons/vimeo.png" alt="" /></a>
+          <a href="#"><img src="{{ site.url }}/images/icons/twitter.png" alt="" /></a>
+          <a href="#"><img src="{{ site.url }}/images/icons/facebook.png" alt="" /></a>
+          <a href="#"><img src="{{ site.url }}/images/icons/skype.png" alt="" /></a>
+          <a href="#"><img src="{{ site.url }}/images/icons/digg.png" alt="" /></a>
+          <a href="#"><img src="{{ site.url }}/images/icons/linkedin.png" alt="" /></a>
+          <a href="#"><img src="{{ site.url }}/images/icons/vimeo.png" alt="" /></a>
         </div>
       </div>
 
