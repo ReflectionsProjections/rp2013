@@ -389,7 +389,7 @@ if ($.cookie('mycookie')) {
 /* Skins Style */
 $(document).ready(function(){
 
-var cookieName = 'pink';
+var cookieName = 'blue';
 
 function changeLayout(layout) {
 $.cookie(cookieName, layout);
@@ -417,7 +417,7 @@ changeLayout('red');
 });
 
 $("#purple").click( function(){ $
-changeLayout('purple');
+				changeLayout('purple');
 });
 
 

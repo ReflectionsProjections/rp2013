@@ -1,3 +1,115 @@
 ---
-layout: index
+layout: base
 ---
+<div class="container clearfix">
+
+  <div id="welcome">
+    <div class="sixteen columns">
+      <div class="qoute">
+        <div class="eleven columns omega">
+          <h2 class="pink-links">October 10th - 13th at the <a href="{{ site.url }}/travel.html">Siebel Center for Computer Science</a></h2>
+          <p>Over 15 fantastic speakers, two career fairs, a programming competition, and more!</p>
+        </div>
+        <div class="four columns alpha"><a href="http://acmreflections.eventbrite.com?ref=elink" class="link">Register Now (Free)!</a></div>
+      </div>
+    </div>
+  </div><!-- End Welcome -->
+</div> <!-- End Container -->
+
+
+<div class="container clearfix">
+
+  <div class="sixteen columns">
+  <div id="slider">
+    <div class="flex-container">
+      <div class="flexslider">
+	<ul class="slides">
+          <li>
+	    <a href="#"><img src="{{ site.url }}/images/photos/workshop.jpg" alt="IMC at the Job Fair"></a>
+	    <p class="flex-caption"> <span>Get a Job</span> Attend our casual job fair to chat with some of the best companies in the industry.</p>
+	  </li>
+          <li>
+	    <a href="#"><img src="{{ site.url }}/images/photos/ciara.jpg" alt="IMC at the Job Fair"></a>
+	    <p class="flex-caption"> <span>Get a Job</span> Attend our casual job fair to chat with some of the best companies in the industry.</p>
+	  </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  </div><!-- End Slider -->
+    <div class="two-thirds column">
+      <div class="recent-blog">
+
+        <h2 class="title">Recent Announcements <span class="line"></span></h2>
+	{% for post in site.categories.news limit:3 %}
+          <div class="blog-item">
+            <div class="date"><span class="day">{{ post.date | date: "%d" }}</span><span class="month">{{ post.date | date: "%b" | upcase }}</span></div>
+            <h3><a href="single_post.html"> {{ post.title }}</a></h3>
+            <p>{{ post.excerpt }}</p>
+          </div>
+	  {% endfor %}
+      </div>
+    </div><!-- End recent-blog -->
+
+  <div class="one-third column">
+      <h2 class="title">Event Schedule<span class="line"></span></h2>
+      <div id="accordion">
+        <h3><a href="#">Thursday, October 10th</a></h3>
+        <div>
+	  <p><strong>5 PM - 8 PM:</strong> Startup Fair</p>
+	</div>
+
+        <h3><a href="#">Friday, October 11th</a></h3>
+        <div>
+	  <p>
+	    <strong>10 AM - 4 PM:</strong> Job Fair<br />
+	    <strong>5 PM:</strong> Speaking Events<br />
+	    <strong>9 PM:</strong> MechMania Kickoff<br />
+	  </p>
+	</div>
+
+        <h3><a href="#">Saturday, October 12th</a></h3>
+        <div>
+	  <p><strong>5 PM - 8 PM:</strong> Startup Fair</p>
+	</div>
+
+        <h3><a href="#">Sunday, October 13th</a></h3>
+        <div>
+	  <p><strong>5 PM - 8 PM:</strong> Startup Fair</p>
+	</div>
+
+      </div><!-- End accordion -->
+
+  </div><!-- End schedule -->
+
+    <div class="recent-work gallery clearfix">
+     <div class="slidewrap" >
+      <div class="sixteen columns"> <h2 class="title">Announced Speakers <span class="line"></span></h2> </div>
+
+      <ul class="slidecontrols">
+      <li><a href="#speakerSlider" class="next">Next</a></li><li><a href="#speakerSlider" class="prev">Prev</a></li>
+	  </ul>
+
+      <ul class="slider" id="speakerSlider">
+
+	{% for speaker in site.categories.speakers %}
+	{% cycle 'open slide': '<li class="slide">', nil, nil, nil %}
+		<!-- item -->
+		<div class="four columns item">
+		  <div class="caption">
+		    <a href="{{ speaker.url }}"><img src="{{ site.url }}{{ speaker.photo_url }}" alt="{{ speaker.name }}" class="pic" />
+		      <span class="hover-effect link"></span></a>
+		  </div><!-- hover effect -->
+		  <h4><a href="{{ speaker.url }}">{{ speaker.name }}</a></h4>
+		            <p>{{ speaker.one_line }}</p>
+		</div>
+		<!-- End -->
+	{% cycle 'close slide': nil, nil, nil, "</li><!-- End Slide -->" %}
+	{% endfor %}
+      </ul>
+
+      </div><!-- End slidewrap -->
+
+    </div><!-- End speakers -->
+
+</div><!-- End Container -->

@@ -1,9 +1,34 @@
----
-layout: default
----
-<h2>{{ page.title }}</h2>
-<p class="meta">{{ page.date | date_to_string }}</p>
+{% extends '_layouts/blog.html' %}
+{% block main  %}
+<div class="sixteen columns"> <h1 class="page-title">Announcements and News<span class="line"></span></h1>
+</div><!-- Page Title -->
 
-<div id="post">
-{{ content }}
-</div>
+   <!-- Start Single Post -->
+   <div class="eleven columns top bottom">
+
+     <!-- ==================== Single Post ==================== -->
+     <div class="post gallery bottom">
+
+        <h2 class="title top-2 bottom-2">{{ page.title }}<span class="line"></span></h2>
+        <!-- Title Post -->
+
+       <div class="post-meta bottom-2 transparent">
+        <div class="meta"><span class="history  icon gray"></span> On {{ page.date | date_to_long_string }}</div><!-- Date -->
+	{% for cat in post.category %}
+        <div class="meta"><span class="more-items icon gray"></span> <a href="#">{{ cat }}</a> </div><!-- Category -->
+	{% endfor %}
+	{% if page.author %}
+        <div class="meta"><span class="user icon gray"></span> By : {{ page.author }} </div><!-- Author -->
+	{% endif %}
+      </div><!-- End post-meta -->
+
+      <div class="post-content bottom">
+	{{ content }}
+      </div><!-- End post-content -->
+      <br />
+
+     </div>
+     <!-- ==================== End single post  ==================== -->
+     </div>
+   {% include sidebar.html %}
+{% endblock %}
