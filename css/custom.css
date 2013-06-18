@@ -10,3 +10,14 @@
 .speaker-photo {
   max-width: 50%;
 }
+
+#history-list {
+  margin: 10px 0 0 10px;
+  text-align: center;
+}
+
+#history-list li {
+  margin-left: 2px;
+  margin-right: 2px;
+  display: inline;
+}

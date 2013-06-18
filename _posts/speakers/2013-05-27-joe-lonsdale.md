@@ -3,8 +3,9 @@ layout: speaker
 name: Joe Lonsdale
 photo_url: /images/speakers/joe-lonsdale.jpg
 category: speakers
-one_line: | Founder, Addepar and Palantir
-Partner, Formation 8.
+one_line: |
+  Founder, Addepar and Palantir
+  Partner, Formation 8.
 ---
 
 Biography
