@@ -1,0 +1,30 @@
+{% extends '_layouts/base.html' %}
+{% block main %}
+<div class="container clearfix">
+
+  <div class="sixteen columns"> <h1 class="page-title">{{ page.name }}<span class="line"></span></h1>
+  </div><!-- Page Title -->
+
+  <!-- Start Single Post -->
+  <div class="sixteen columns top bottom">
+
+     <!-- ==================== Single Post ==================== -->
+     <div class="post gallery bottom">
+
+      <div class="post-content bottom">
+	<img class="speaker-photo" src="{{ site.url }}{{ page.photo_url }}" alt="{{ page.name }}" align="right" />
+	{{ content }}
+      </div><!-- End post-content -->
+
+     </div>
+     <!-- ==================== End single post  ==================== -->
+
+   </div><!-- End column -->
+
+
+   <div class="clearfix"></div>
+
+
+  </div><!-- <<< End Container >>> -->
+
+{% endblock %}

@@ -16,8 +16,12 @@ layout: base
           {% for speaker in site.categories.speakers %}
           <!-- item -->
           <li class="one-third column">
-            <a href="{{ speaker.url }}"><img src="{{ site.url }}{{ speaker.photo_url }}" alt="{{ speaker.name }}" /></a>
-            <a href="{{ speaker.url }}"><h3>{{ speaker.name }}</h3></a>
+            <!--<a href="{{ speaker.url }}">-->
+	      <img src="{{ site.url }}{{ speaker.photo_url }}" alt="{{ speaker.name }}" />
+	    <!--</a>-->
+            <!--<a href="{{ speaker.url }}">-->
+	      <h3>{{ speaker.name }}</h3>
+	    <!--</a>-->
             <p>
 	      {{ speaker.one_line }}
             </p>

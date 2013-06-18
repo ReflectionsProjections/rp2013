@@ -25,12 +25,24 @@ layout: base
       <div class="flexslider">
 	<ul class="slides">
           <li>
-	    <a href="#"><img src="{{ site.url }}/images/photos/workshop.jpg" alt="IMC at the Job Fair"></a>
+	    <a href="#"><img src="{{ site.url }}/images/photos/zed.jpg" alt="Zed Shaw"></a>
+	    <p class="flex-caption"> <span>Hear from Some of the Best</span> Fantastic speakers from across industry and academia.</p>
+	  </li>
+          <li>
+	    <a href="#"><img src="{{ site.url }}/images/photos/imc.jpg" alt="IMC at the Job Fair"></a>
 	    <p class="flex-caption"> <span>Get a Job</span> Attend our casual job fair to chat with some of the best companies in the industry.</p>
 	  </li>
           <li>
-	    <a href="#"><img src="{{ site.url }}/images/photos/ciara.jpg" alt="IMC at the Job Fair"></a>
-	    <p class="flex-caption"> <span>Get a Job</span> Attend our casual job fair to chat with some of the best companies in the industry.</p>
+	    <a href="#"><img src="{{ site.url }}/images/photos/mo2.jpg" alt="Twitter at the Job Fair"></a>
+	    <p class="flex-caption"> <span>Don't Suit Up</span> You can mingle with representatives from dozens of tech leaders in a casual environment.</p>
+	  </li>
+          <li>
+	    <a href="#"><img src="{{ site.url }}/images/photos/jobfair_above.jpg" alt="Crowd of Attendees"></a>
+	    <p class="flex-caption"> <span>Meet Amazing People</span> Meet students from all over the Midwest!</p>
+	  </li>
+          <li>
+	    <a href="#"><img src="{{ site.url }}/images/photos/workshop.jpg" alt="Table of Students"></a>
+	    <p class="flex-caption"> <span>Get Competitive</span> Participate in MechMania and Puzzlebang to win great prizes!</p>
 	  </li>
         </ul>
       </div>
@@ -100,10 +112,15 @@ layout: base
 		<!-- item -->
 		<div class="four columns item">
 		  <div class="caption">
-		    <a href="{{ speaker.url }}"><img src="{{ site.url }}{{ speaker.photo_url }}" alt="{{ speaker.name }}" class="pic" />
-		      <span class="hover-effect link"></span></a>
+		    <!--<a href="{{ speaker.url }}">-->
+		      <img src="{{ site.url }}{{ speaker.photo_url }}" alt="{{ speaker.name }}" class="pic" />
+		      <!--<span class="hover-effect link"></span></a>-->
 		  </div><!-- hover effect -->
-		  <h4><a href="{{ speaker.url }}">{{ speaker.name }}</a></h4>
+		  <h4>
+		    <!--<a href="{{ speaker.url }}">-->
+		    {{ speaker.name }}
+		    <!--</a>-->
+		  </h4>
 		            <p>{{ speaker.one_line }}</p>
 		</div>
 		<!-- End -->

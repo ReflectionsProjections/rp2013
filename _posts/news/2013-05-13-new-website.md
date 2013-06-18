@@ -1,5 +1,5 @@
 ---
-layout: single_post
+layout: sidebar_right
 author: Cole Gleason
 category: news
 ---

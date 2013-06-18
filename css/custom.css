@@ -4,5 +4,9 @@
 /* you can add any custom css code for any class, id, tags and anything here, it will be active.. */
 
 .pink-links a {
-color: #ba1151;
+  color: #ba1151;
+}
+
+.speaker-photo {
+  max-width: 50%;
 }
