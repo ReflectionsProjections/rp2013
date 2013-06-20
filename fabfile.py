@@ -1,4 +1,4 @@
-from fabric.api import env, roles, run, local
+from fabric.api import env, roles, run, local, put
 
 NETID = None
 
@@ -8,7 +8,9 @@ env.roledefs = {
 }
 
 # Set the user to use for ssh
-env.user = raw_input('Please enter your netid: ')
+if not NETID:
+    NETID = raw_input('Please enter your netid: ')
+env.user = NETID
 
 local_path = '~/code/reflections-projections/'
 remote_path = '/afs/acm.uiuc.edu/project/rp/www/0000'
@@ -22,9 +24,5 @@ def build(env='dev'):
 # Restrict the function to the 'web' role
 @roles('acm')
 def deploy():
-    local('cd %(path)s; git checkout master' % {'path' : local_path})
     build(env='prod')
-    local('cd %(path)s; git push origin master' % {'path' : local_path})
-
-    run('cd %(path)s; git checkout master' % {'path' : remote_path})
-    run('cd %(path)s; git pull' % {'path' : remote_path})
+    put(local_path + '_site/*', remote_path)
