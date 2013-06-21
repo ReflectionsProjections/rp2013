@@ -64,7 +64,14 @@
 
 </head>
 <body class="subtlenet2">
-
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=150125275144569";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
   <div id="wrap" class="boxed">
 
   <header>
@@ -97,7 +104,7 @@
                 <li><a href="{{ site.url }}/career_fairs.html#job_fair">Job Fair</a></li>
               </ul>
             </li>
-	    <li><a href="#">More Events</a>
+	    <li><a>More Events</a>
 	      <ul>
 		<li><a href="{{ site.url }}/mechmania.html">MechMania</a></li>
 		<li><a href="http://puzzlebang.com" target="_blank">Puzzlebang <span class="new_window icon"></span></a></li>
@@ -162,6 +169,7 @@
         <div class="social">
           <a href="http://facebook.com/acmrp"><span class="social-icon facbook color"></span></a>
           <a href="http://twitter.com/acmreflections"><span class="social-icon twitter color"></span></a>
+          <a href="https://plus.google.com/112368859524676612958/"><span class="social-icon google_plus color"></span></a>
           <a href="http://youtube.com/acmuiuc"><span class="social-icon youtube color"></span></a>
         </div>
       </div>

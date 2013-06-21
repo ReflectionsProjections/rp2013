@@ -1,14 +1,11 @@
 <!-- Start Sidebar Widgets -->
 <div class="five columns bottom">
-  <!-- Most Posts -->
-
   <div id="horizontal-tabs" class="bottom">
 
     <ul class="tabs">
       <li id="tab1">Recent</li>
     </ul>
     <div class="contents">
-
       <div id="content1" class="tabscontent">
 	<ul class="recent-posts">
 	  {% for post in site.categories.news limit:2 %}
@@ -22,13 +19,8 @@
     </div><!-- End contents -->
 
   </div><!-- End horizontal-tabs -->
+</div>
 
-  <!-- End -->
-
-  <!-- Twitter Feed -->
-  <h2 class="title bottom">Twitter Feed <span class="line"></span></h2>
-
-  <div class='tweet query'></div><!-- Tweets Code -->
-
-  <!-- End -->
-</div><!-- End Sidebar Widgets -->
+<div class="five columns bottom">
+  <div class="fb-like-box" data-href="https://www.facebook.com/acmrp" data-width="250" data-height="100" data-show-faces="false" data-stream="false" data-show-border="false" data-header="false"></div>
+</div>

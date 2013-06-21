@@ -25,23 +25,23 @@ layout: base
       <div class="flexslider">
 	<ul class="slides">
           <li>
-	    <a href="#"><img src="{{ site.url }}/images/photos/zed.jpg" alt="Zed Shaw"></a>
+	    <a href="/speakers.html"><img src="{{ site.url }}/images/photos/zed.jpg" alt="Zed Shaw"></a>
 	    <p class="flex-caption"> <span>Hear from Some of the Best</span> Fantastic speakers from across industry and academia.</p>
 	  </li>
           <li>
-	    <a href="#"><img src="{{ site.url }}/images/photos/imc.jpg" alt="IMC at the Job Fair"></a>
+	    <a href="/career_fairs.html#job_fair"><img src="{{ site.url }}/images/photos/imc.jpg" alt="IMC at the Job Fair"></a>
 	    <p class="flex-caption"> <span>Get a Job</span> Attend our casual job fair to chat with some of the best companies in the industry.</p>
 	  </li>
           <li>
-	    <a href="#"><img src="{{ site.url }}/images/photos/mo2.jpg" alt="Twitter at the Job Fair"></a>
+	    <a href="/career_fairs.html#job_fair"><img src="{{ site.url }}/images/photos/mo2.jpg" alt="Twitter at the Job Fair"></a>
 	    <p class="flex-caption"> <span>Don't Suit Up</span> You can mingle with representatives from dozens of tech leaders in a casual environment.</p>
 	  </li>
           <li>
-	    <a href="#"><img src="{{ site.url }}/images/photos/jobfair_above.jpg" alt="Crowd of Attendees"></a>
+	    <img src="{{ site.url }}/images/photos/jobfair_above.jpg" alt="Crowd of Attendees">
 	    <p class="flex-caption"> <span>Meet Amazing People</span> Meet students from all over the Midwest!</p>
 	  </li>
           <li>
-	    <a href="#"><img src="{{ site.url }}/images/photos/workshop.jpg" alt="Table of Students"></a>
+	    <a href="/mechmania.html"><img src="{{ site.url }}/images/photos/workshop.jpg" alt="Table of Students"></a>
 	    <p class="flex-caption"> <span>Get Competitive</span> Participate in MechMania and Puzzlebang to win great prizes!</p>
 	  </li>
         </ul>
@@ -56,7 +56,7 @@ layout: base
 	{% for post in site.categories.news limit:3 %}
           <div class="blog-item">
             <div class="date"><span class="day">{{ post.date | date: "%d" }}</span><span class="month">{{ post.date | date: "%b" | upcase }}</span></div>
-            <h3><a href="single_post.html"> {{ post.title }}</a></h3>
+            <h3><a href="{{ post.url }}l"> {{ post.title }}</a></h3>
             <p>{{ post.excerpt }}</p>
           </div>
 	  {% endfor %}
