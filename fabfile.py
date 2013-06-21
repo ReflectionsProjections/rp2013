@@ -21,7 +21,7 @@ envs = {
 }
 
 
-local_path = '~/code/reflections-projections/'
+local_path = '.' # Project directory.  Change this to absolute to run it from elsewhere
 
 def build(environment='dev'):
     config = envs[environment]['config']
