@@ -1,9 +1,9 @@
 ---
 layout: speaker
 name: Mike Shaver
-photo_url: /images/speakers/placeholder.jpg
+photo_url: /images/speakers/mike-shaver.jpg
 category: speakers
-one-line: "Engineering Director, Facebook"
+one_line: "Engineering Director, Facebook"
 ---
 
 Biography
