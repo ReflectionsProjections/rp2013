@@ -5,7 +5,7 @@ category: news
 img: '/images/posts/new-website.png'
 ---
 
-Welcome to our shiny new website! Hopefully it will be a bit more informative than the landing page we have had up for the past few months. I apologize for the delay in getting this site online.
+Welcome to our shiny new website! Hopefully it will be a bit more informative than the landing page we have had up for the past few months. We apologize for the delay in getting this site online.
 
 <br />
 
@@ -13,13 +13,12 @@ Keep checking back here for new speaker announcements, a list of companies atten
 
 <br />
 
-Please feel free to [email me](mailto:conference-chair@acm.uiuc.edu) if you see any bugs, can't find some information that you think should be here, or have any other concerns.  
+Please feel free to [email us](mailto:conference@acm.uiuc.edu) if you see any bugs, can't find some information that you think should be here, or have any other concerns.  
 
 <br />
 
 Sincerely,  
-Cole Gleason  
-Reflections | Projections 2013 Chair
+The Reflections | Projections 2013 Staff
 
 <br />
 

@@ -21,21 +21,23 @@ envs = {
 }
 
 
-local_path = '.' # Project directory.  Change this to absolute to run it from elsewhere
-
+local_path = './' # Project directory.  Change this to absolute to run it from elsewhere
+build_dir = '/tmp/rp2013'
 def build(environment='dev'):
     config = envs[environment]['config']
-    local('cd %(path)s; jekyll build -c %(config)s' % {'path': local_path, 'config': config })
+    local('cd %(path)s; jekyll build -c %(config)s --destination %(build_path)s' \
+          % {'path': local_path, 'config': config, 'build_path': build_dir })
 
 # Restrict the function to the 'web' role
 @roles('acm')
 def deploy(environment='prod', netid=None):
     if environment == 'dev':
         raise "Can't deploy while in dev environment! Try prod or stage."
+
+    build(environment)
     # Set the user to use for ssh
     if not netid:
         netid = raw_input('Please enter your netid: ')
     env.user = netid
     remote_path = envs[environment]['remote_path']
-    build(environment)
-    put(local_path + '_site/*', remote_path)
+    put(build_dir + '/*', remote_path)
