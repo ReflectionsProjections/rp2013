@@ -78,7 +78,7 @@
 
 						if( $slide.length <= 1 ) {
 							return; /* No sense running all this code if the carousel functionality is unnecessary. */
-						}
+				   						}
 
 						$wrap
 							.css({
