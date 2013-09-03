@@ -1,14 +1,6 @@
 ---
-layout: company
 name: BrightRoll
-photo_url: /images/speakers/placeholder.jpg
+photo_url: /images/companies/brightroll.png
+external_url: http://www.brightroll.com
 category: companies
-one_line:
 ---
-
-Biography
-====
-Test Mctest is a fake speaker.  Use this as a template.
-Talk Abstract
-=============
-Test won't be giving a talk!

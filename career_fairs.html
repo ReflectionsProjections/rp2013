@@ -42,21 +42,17 @@ layout: base
 </div>
 
 <div class="clearfix"></div>
-
-<ul class="team">
+<div class="recent-work gallery clearfix"><br class="appear">
     {% for company in site.categories.companies %}
-    <!-- item -->
-    <li class="one-third column">
-        <!--<a href="{{ speaker.url }}">-->
-        <img src="{{ site.url }}{{ company.photo_url }}" alt="{{ company.name }}" />
-        <!--</a>-->
-        <!--<a href="{{ company.url }}">-->
-        <h3>{{ company.name }}</h3>
-        <!--</a>-->
-        <p>
-            {{ company.one_line }}
-        </p>
-    </li>
-    <!-- End -->
+    <div class="four columns item">
+      <a href="{{ company.external_url }}" target="_blank">
+        {% if company.photo_url %}
+        <img src="{{ site.url }}{{ company.photo_url }}" alt="{{ company.name }}" class="client-pic"/>
+        {% else %}
+        <span>{{ company.name }}<span>
+<!--        <img src="{{ site.url }}/images/speakers/placeholder.jpg" alt="{{ company.name }}" class="client-pic"/>-->
+        {% endif %}
+      </a>
+    </div>
     {% endfor %}
-</ul><!-- End team -->
+</div>
