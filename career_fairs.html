@@ -40,3 +40,23 @@ layout: base
   <br />
   <p>Are you looking to recruit at the job fair?  Please email <a href="mailto:corporate@acm.uiuc.edu">ACM Corporate</a> to be placed on the waiting list.</p>
 </div>
+
+<div class="clearfix"></div>
+
+<ul class="team">
+    {% for company in site.categories.companies %}
+    <!-- item -->
+    <li class="one-third column">
+        <!--<a href="{{ speaker.url }}">-->
+        <img src="{{ site.url }}{{ company.photo_url }}" alt="{{ company.name }}" />
+        <!--</a>-->
+        <!--<a href="{{ company.url }}">-->
+        <h3>{{ company.name }}</h3>
+        <!--</a>-->
+        <p>
+            {{ company.one_line }}
+        </p>
+    </li>
+    <!-- End -->
+    {% endfor %}
+</ul><!-- End team -->

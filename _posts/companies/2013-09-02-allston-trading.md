@@ -1,0 +1,14 @@
+---
+layout: company
+name: Allston Trading
+photo_url: /images/speakers/placeholder.jpg
+category: companies
+one_line:
+---
+
+Biography
+====
+Test Mctest is a fake speaker.  Use this as a template.
+Talk Abstract
+=============
+Test won't be giving a talk!
