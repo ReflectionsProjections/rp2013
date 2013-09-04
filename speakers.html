@@ -13,15 +13,15 @@ layout: base
         <div class="clearfix"></div>
 
         <ul class="team">
-          {% for speaker in site.categories.speakers %}
+          {% for speaker in site.categories.speakers reversed %}
           <!-- item -->
           <li class="one-third column">
-            <!--<a href="{{ speaker.url }}">-->
+           <a href="{{ speaker.url }}">
 	      <img src="{{ site.url }}{{ speaker.photo_url }}" alt="{{ speaker.name }}" />
-	    <!--</a>-->
-            <!--<a href="{{ speaker.url }}">-->
+           </a>
+            <a href="{{ speaker.url }}">
 	      <h3>{{ speaker.name }}</h3>
-	    <!--</a>-->
+	    </a>
             <p>
 	      {{ speaker.one_line }}
             </p>

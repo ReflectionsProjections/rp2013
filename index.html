@@ -103,19 +103,19 @@ layout: base
       {% endif %}
       <ul class="slider" id="speakerSlider">
 
-	{% for speaker in site.categories.speakers %}
+	{% for speaker in site.categories.speakers reversed %}
 	{% cycle 'open slide': '<li class="slide">', nil, nil, nil %}
 	  <!-- item -->
 	  <div class="four columns item">
 	    <div class="caption">
-	      <!--<a href="{{ speaker.url }}">-->
+	      <a href="{{ speaker.url }}">
 	      <img src="{{ site.url }}{{ speaker.photo_url }}" alt="{{ speaker.name }}" class="pic" />
-	      <!--<span class="hover-effect link"></span></a>-->
+              </a>
 	    </div><!-- hover effect -->
 	    <h4>
-	      <!--<a href="{{ speaker.url }}">-->
+	      <a href="{{ speaker.url }}">
 	      {{ speaker.name }}
-	      <!--</a>-->
+	      </a>
 	    </h4>
 	    <p>{{ speaker.one_line }}</p>
 	  </div>

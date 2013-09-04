@@ -6,7 +6,4 @@ category: speakers
 one_line:
 ---
 
-Biography
-====
-Talk Abstract
-=============
+# Talk information coming soon!

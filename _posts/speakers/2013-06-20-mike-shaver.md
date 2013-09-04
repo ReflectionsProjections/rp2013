@@ -6,7 +6,4 @@ category: speakers
 one_line: "Engineering Director, Facebook"
 ---
 
-Biography
-====
-Talk Abstract
-=============
+# Talk information coming soon!
