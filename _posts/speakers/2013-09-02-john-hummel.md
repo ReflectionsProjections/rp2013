@@ -3,7 +3,7 @@ layout: speaker
 name: John Hummel
 photo_url: /images/speakers/john-hummel.jpg
 category: speakers
-one_line:
+one_line: "Professor, Department of Psychology<br />University of Illinois"
 ---
 
 # What Happened to the Human Brain?
