@@ -21,22 +21,30 @@ layout: base
 
 <div class="sixteen columns">
   <p>
-    Initiated last year, our Startup Fair allows students to meet great companies with lots of culture, interesting problems, and small teams. It will be held on Thursday, October 10th from 5pm - 8pm in the Siebel Center atrium. Most companies that attend this fair will be:
+    Initiated last year, our Startup Fair allows students to meet great companies with lots of culture, interesting problems, and small teams. It will be held on Thursday, October 10th from 5pm - 8pm in the Siebel Center atrium.
   </p>
-
-  <ul class="square-list">
-    <li>Less than 5 years old</li>
-    <li>Have less than 100 employees</li>
-    <li>And be a privately-owned company</li>
-  </ul>
-
   <p>Do you know a startup that sounds like it might fit? <a href="mailto:corporate@acm.uiuc.edu">Email us</a> for an invitation.</p>
+
 </div>
+  <div class="clearfix"></div>
+  <div class="recent-work gallery clearfix"><br class="appear">
+  {% for company in site.categories.startups reversed %}
+  <div class="four columns item company-item">
+    {% if company.external_url %}<a href="{{ company.external_url }}" target="_blank">{% endif %}
+      {% if company.photo_url %}
+      <img src="{{ site.url }}{{ company.photo_url }}" alt="{{ company.name }}" class="client-pic company-logo"/>
+      {% else %}
+      <span class="company-name">{{ company.name }}</span>
+      {% endif %}
+    {% if company.external_url %}</a>{% endif %}
+  </div>
+  {% endfor %}
+  </div>
 
 <div class="sixteen columns"> <h2 id="job_fair" class="title">Job Fair<span class="line"></span></h2></div>
 
 <div class="sixteen columns">
-  <p>The Reflections | Projections Job Fair is always a huge hit, and some of the biggest names in technology are always there to recruit. Come see companies like Facebook, Dropbox, and more right in the Siebel Center atrium from 10pm - 4pm on Friday, October 11th.</p>
+  <p>The Reflections | Projections Job Fair is always a huge hit, and some of the biggest names in technology are always there to recruit. Come talk to the companies below  right in the Siebel Center atrium from 10pm - 4pm on Friday, October 11th. Oh, and don't suit up!</p>
   <br />
   <p>Are you looking to recruit at the job fair?  Please email <a href="mailto:corporate@acm.uiuc.edu">ACM Corporate</a> to be placed on the waiting list.</p>
 </div>
