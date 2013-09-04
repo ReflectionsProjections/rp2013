@@ -1,14 +1,7 @@
 ---
-layout: company
 name: Pinterest
-photo_url: /images/speakers/placeholder.jpg
+photo_url: /images/companies/pinterest.png
+external_url: http://www.pinterest.com
 category: companies
-one_line:
 ---
-
-Biography
-====
-Test Mctest is a fake speaker.  Use this as a template.
-Talk Abstract
-=============
-Test won't be giving a talk!
+Pinterest is a tool for collecting and organizing things you love. People use it to plan trips, start collections, make wishlists, save recipes and more. Whether you’re interested in graphic design, motorcycles, or vintage records, there’s a place for you on Pinterest.

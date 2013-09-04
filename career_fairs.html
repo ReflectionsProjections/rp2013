@@ -42,17 +42,17 @@ layout: base
 </div>
 
 <div class="clearfix"></div>
+
 <div class="recent-work gallery clearfix"><br class="appear">
-    {% for company in site.categories.companies %}
-    <div class="four columns item">
-      <a href="{{ company.external_url }}" target="_blank">
-        {% if company.photo_url %}
-        <img src="{{ site.url }}{{ company.photo_url }}" alt="{{ company.name }}" class="client-pic"/>
-        {% else %}
-        <span>{{ company.name }}<span>
-<!--        <img src="{{ site.url }}/images/speakers/placeholder.jpg" alt="{{ company.name }}" class="client-pic"/>-->
-        {% endif %}
-      </a>
-    </div>
-    {% endfor %}
+  {% for company in site.categories.companies reversed %}
+  <div class="four columns item company-item">
+    {% if company.external_url %}<a href="{{ company.external_url }}" target="_blank">{% endif %}
+      {% if company.photo_url %}
+      <img src="{{ site.url }}{{ company.photo_url }}" alt="{{ company.name }}" class="client-pic company-logo"/>
+      {% else %}
+      <span class="company-name">{{ company.name }}</span>
+      {% endif %}
+    {% if company.external_url %}</a>{% endif %}
+  </div>
+  {% endfor %}
 </div>

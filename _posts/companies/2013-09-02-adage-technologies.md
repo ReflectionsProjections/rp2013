@@ -1,14 +1,8 @@
 ---
 layout: company
 name: Adage Technologies
-photo_url: /images/speakers/placeholder.jpg
+external_url: http://www.adagetechnologies.com/
+photo_url: /images/companies/adage.png
 category: companies
-one_line:
 ---
-
-Biography
-====
-Test Mctest is a fake speaker.  Use this as a template.
-Talk Abstract
-=============
-Test won't be giving a talk!
+Founded in 2001, Adage Technologies is a web development firm located in the heart of Chicago. We specialize in creating engaging custom websites, custom software and mobile solutions.  It's a collaborative and entrepreneurial group here at Adage. We are passionate about our work and are always pretty hungry to grow and learn more.

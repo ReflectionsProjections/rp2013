@@ -3,6 +3,22 @@
 
 /* you can add any custom css code for any class, id, tags and anything here, it will be active.. */
 
+.company-logo {
+    max-height: 75px;
+}
+
+.company-item {
+    min-height:75px;
+    height:75px; 
+}
+
+.company-name {
+    line-height: 75px;
+    font-weight: bold;
+    font-size: 20pt;
+    padding-top: 20px;
+}
+
 .pink-links a {
   color: #ba1151;
 }

@@ -1,14 +1,7 @@
 ---
 layout: company
 name: Electronic Arts
-photo_url: /images/speakers/placeholder.jpg
+photo_url: /images/companies/ea.jpg
 category: companies
-one_line:
 ---
-
-Biography
-====
-Test Mctest is a fake speaker.  Use this as a template.
-Talk Abstract
-=============
-Test won't be giving a talk!
+Electronic Arts Inc. is a leading global interactive entertainment software company. EA delivers games, content and online services for Internet-connected consoles, personal computers, mobile phones and tablets.
