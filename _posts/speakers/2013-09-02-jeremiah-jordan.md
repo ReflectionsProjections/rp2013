@@ -12,7 +12,7 @@ one_line:  "Senior Software Engineer, Datastax"
 An introduction to some of the basics of Apache Cassandra, followed by actually getting it up and running. This presentation will go over what Apache Cassandra is and how to get it up and running on your development machine. It will go over using the Cassandra Query Language (CQL) to create tables, write data to them, and then read it back out. After the basics it will go into using the python-driver to actually write some code which uses the database.
 
 
-## Biography
+## About Jeremiah
 Jeremiah Jordan is a Senior Software Engineer and the Technical Lead
 for the Support Team at DataStax.  After getting a Masters in Computer
 Engineering from GA Tech in 2002, he started out his career in the

@@ -5,10 +5,9 @@ photo_url: /images/speakers/placeholder.jpg
 category: speakers
 one_line: "Automation and Tools Engineer, HP"
 ---
-# Tlak information coming soon!
+# Talk information coming soon!
 
-## Biography
-
+## About Elizabeth
 In her role in HP, Elizabeth works directly on the
 OpenStack open source project on the core infrastructure team. This
 team runs the project Linux-based servers and services (wiki,

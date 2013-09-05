@@ -12,6 +12,10 @@
     height:75px; 
 }
 
+ul.team li {
+    min-height: 400px
+}
+
 .company-name {
     line-height: 75px;
     font-weight: bold;
