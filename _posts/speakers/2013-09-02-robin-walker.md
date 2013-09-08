@@ -1,7 +1,7 @@
 ---
 layout: speaker
 name: Robin Walker
-photo_url: /images/speakers/placeholder.jpg
+photo_url: /images/speakers/robinwalker.jpg
 category: speakers
 one_line: Game Designer, Valve
 ---
