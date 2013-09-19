@@ -1,7 +1,7 @@
 ---
 layout: speaker
 name: Brandon Wiley
-photo_url: /images/speakers/placeholder.jpg
+photo_url: /images/speakers/brandon-wiley.jpg
 category: speakers
 one_line: "PhD Candidate, Information Studies<br />University of Texas at Austin"
 ---

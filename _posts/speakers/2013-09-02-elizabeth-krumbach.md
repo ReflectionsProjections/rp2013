@@ -1,7 +1,7 @@
 ---
 layout: speaker
 name: Elizabeth Krumbach Joseph
-photo_url: /images/speakers/placeholder.jpg
+photo_url: /images/speakers/elizabeth-krumbach.jpg
 category: speakers
 one_line: "Automation and Tools Engineer, HP"
 ---
