@@ -45,3 +45,16 @@ ul.team li {
 sup {
   vertical-align: super;
 }
+
+.location {
+    font-style: italic;
+}
+
+.schedule-table tbody tr td:first-child {
+    width: 150px;
+    font-weight: bold;
+}
+
+.schedule-table tbody tr:nth-child(2n) {
+    background-color: #f5f5f5;
+}
