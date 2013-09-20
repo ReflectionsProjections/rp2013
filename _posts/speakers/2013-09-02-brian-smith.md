@@ -3,7 +3,8 @@ layout: speaker
 name: Brian Smith
 photo_url: /images/speakers/brian-smith.jpg
 category: speakers
-one_line: "Software Engineer, Dropbox"
+one_line: "Software Engineer,
+Dropbox"
 ---
 
 # Make Something People Love
