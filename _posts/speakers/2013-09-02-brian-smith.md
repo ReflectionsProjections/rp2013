@@ -7,7 +7,7 @@ one_line: "Software Engineer,
 Dropbox"
 ---
 
-# Make Something People Love
+# Building Software that Doesn't Suck
 
 One of the main reasons I joined Dropbox was the opportunity to see how the metaphorical sausage is made: how a small group of engineers and designers can build a high quality product that is used and loved by millions of people. When I showed up on my first day, they seemed to be doing everything wrong: they wrote fragile code just to show a green checkmark, didn't have a QA department, and spent a lot of time answering support emails and forum posts. Only after I had been there for a few months did I understand the rationale behind these choices. In my talk, I'll try to capture the obsessive focus on quality that motivated these practices and elevated Dropbox from being a me-too in a crowded market into something people loved.
 
