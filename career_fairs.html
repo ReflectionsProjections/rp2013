@@ -58,7 +58,7 @@ layout: base
       {% if company.photo_url %}
       <img src="{{ site.url }}{{ company.photo_url }}" alt="{{ company.name }}" class="client-pic company-logo"/>
       {% else %}
-      <span class="company-name">{{ company.name }}</span>
+      <span class="company-name company-hover-desc" data-description="They were few in number, but the look in their eyes told all who beheld them that they would leave this day only in victory or death.">{{ company.name }}</span>
       {% endif %}
     {% if company.external_url %}</a>{% endif %}
   </div>

@@ -77,3 +77,16 @@ sup {
 .schedule-table tbody tr:nth-child(2n) {
     background-color: #f5f5f5;
 }
+
+.company-item {
+    position: relative; /*Hack for centering company image within the display divs. Shitty results on IE<8.*/
+}
+
+img.company-logo {
+    position: absolute;
+    margin: auto;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}

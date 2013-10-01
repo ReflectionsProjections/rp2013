@@ -28,15 +28,6 @@
 	content: "\e000";
 }
 
-.icon-share-youtube:hover {
-	color: #c4302b;
-}
-.icon-share-facebook:hover {
-	color: #3b5998;
-}
-.icon-share-twitter:hover {
-	color: #00acee;
-}
-.icon-share-google-plus:hover {
-	color: #dd4b39;
+.icon-share-*:hover {
+	color: #fff;
 }
