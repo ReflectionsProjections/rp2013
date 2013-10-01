@@ -1,5 +1,5 @@
 ---
 layout: company
-name: Apple
+name: Apportable
 category: startups
 ---
