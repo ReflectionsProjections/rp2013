@@ -5,9 +5,10 @@ photo_url: /images/speakers/collin-jackson.jpg
 category: speakers
 one_line: "Co-Founder and CEO, Apportable<br />
 Assistant Research Professor, CMU"
+session: "Dive into Cross-Platform Objective-C"
 ---
 
-# Dive into Cross-Platform Objective-C
+
 he vast majority of mobile devices today are running either s iOS or s Android operating system. Top developers cannot afford to ignore either platform. Increasing, they are choosing Objective-C as their cross-platform language of choice. In the short time span of this talk, ll show how to create a physics-Angry  style game from scratch using only free, open source Objective-C tools. And if you thought Objective-C was only for Apple devices, re wrong -- using Apportable, the game will run equally well on both iOS and Android.
 
 ## About Collin

@@ -4,9 +4,11 @@ name: Jenny Murphy
 photo_url: /images/speakers/jenny-murphy.jpg
 category: speakers
 one_line: "Staff Developer Programs Engineer, Google"
+session: "Exploring the Glass Platform"
 ---
 
-# Exploring the Glass Platform
+
+
 By bringing technology closer, we can get it out of the way.  This
 innovative idea will be taken as a foundation for exploring Glass and
 the Glass platform.  We'll cover the latest design principles for

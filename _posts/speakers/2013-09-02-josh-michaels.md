@@ -4,9 +4,10 @@ name: Josh Michaels
 photo_url: /images/speakers/josh-michaels.jpg
 category: speakers
 one_line: "Founder, Jetson Creative"
+session: "Everything I needed to know to succeed I learned in ACM@UIUC"
 ---
 
-# Everything I needed to know to succeed I learned in ACM@UIUC
+
 
 While classes can prepare you with some of the skills you need to succeed they don't cover many important lessons that can only be gained by hands-on experience. Luckily at UIUC the ACM student chapter makes up for this deficiency offering experiences in creation and development that are fundamentally no different from those found outside the academic world. With so many opportunities to work on projects outside of class it should be no surprise that some of the most successful people are B and C students who prioritized doing projects over better grades.
 
