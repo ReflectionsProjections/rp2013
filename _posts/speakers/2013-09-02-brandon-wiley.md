@@ -5,6 +5,7 @@ photo_url: /images/speakers/brandon-wiley.jpg
 category: speakers
 one_line: "PhD Candidate, Information Studies<br />University of Texas at Austin"
 session: "Defeating Protocol Classifying Internet Filters with Dust, the Polymorphic Protocol Engine"
+time_loc: "October 12th at 7:45 PM - Siebel 1404"
 ---
 
 A widely deployed method of filtering Internet traffic is by using protocol fingerprinting, a specific form of what is generally know as "Deep Packet Inspection". Protocols such as SSL, Tor, BitTorrent, and VPNs are being summarily blocked, regardless of their specific uses. It is possible to circumvent this filtering by encoding traffic into a form which cannot be correctly fingerprinted by the filtering hardware. I will be presenting a tool called Dust which provides an engine for encoding traffic into a variety of forms. By developing a good model of how filtering hardware differentiates traffic into different protocols, a profile can be created which allows Dust to encode arbitrary traffic to bypass the filters.

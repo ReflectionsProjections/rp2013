@@ -27,6 +27,10 @@ ul.team li {
   color: #ba1151;
 }
 
+h1 p {  /* QUITE POSSIBLY THE UGLIEST PIECE OF CSS EVER TO BE WRITTEN */
+    font-size: 14px;
+}
+
 .speaker-info {
     margin-left: 20px;
     float: right;

@@ -5,6 +5,7 @@ photo_url: /images/speakers/jeremiah-jordan.jpg
 category: speakers
 one_line:  "Senior Software Engineer, Datastax"
 session: "Using Apache Cassandra for Big Data: What is this thing, and how do I use it?"
+time_loc: "October 12th at 4 PM - DCL 1320"
 ---
 
 

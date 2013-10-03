@@ -5,6 +5,7 @@ photo_url: /images/speakers/robinwalker.jpg
 category: speakers
 one_line: Game Designer, Valve
 session: "Putting the Community in Charge; From control to collaboration - how and why to let your customers build your products"
+time_loc: "October 12th at 7:45 PM - DCL 1320"
 ---
 
 

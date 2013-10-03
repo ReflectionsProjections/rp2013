@@ -6,6 +6,7 @@ category: speakers
 one_line: "Founder, Addepar and Palantir<br />
 Partner, Formation 8"
 session: "Man-Machine Symbiosis and the Smart Enterprise Wave"
+time_loc: "October 11th at 5 PM - Siebel 1404"
 ---
 Over the last hundred years, five major trends have dominated Silicon
 Valley (SV): “Electronic Tools,” “Semiconductor,” “Enterprise,”

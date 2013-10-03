@@ -5,6 +5,7 @@ photo_url: /images/speakers/jenny-murphy.jpg
 category: speakers
 one_line: "Staff Developer Programs Engineer, Google"
 session: "Exploring the Glass Platform"
+time_loc: "October 12th at 6:30 PM - DCL 1320"
 ---
 
 

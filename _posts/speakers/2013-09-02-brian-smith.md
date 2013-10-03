@@ -6,6 +6,7 @@ category: speakers
 one_line: "Software Engineer,
 Dropbox"
 session: "Building Software that Doesn't Suck"
+time_loc: "October 12th at 6:30 PM - Siebel 1404"
 ---
 
 

@@ -5,6 +5,7 @@ photo_url: /images/speakers/josh-michaels.jpg
 category: speakers
 one_line: "Founder, Jetson Creative"
 session: "Everything I needed to know to succeed I learned in ACM@UIUC"
+time_loc: "October 12th at 1:30 PM - DCL 1320"
 ---
 
 

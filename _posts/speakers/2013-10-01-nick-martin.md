@@ -6,6 +6,7 @@ category: speakers
 one_line: "Software Developer, Adage Technologies<br />
 Co-Founder, Chicago Backbone.js Group"
 session: "Node.js Workshop"
+time_loc: "October 12th at 2:45 PM - DCL 1320"
 ---
 Now that the Dark Ages of browser JavaScript are over, and developers increasingly use JS in modern web programming, JS has become a big player in the creation of modern web applications. The introduction of Node JS has brought a stable JS platform to the server-side as well. In this workshop, ll be experimenting with a server-side Node service that talks to a client-side application - both written in the same language. Specifically, ll be creating a group drawing app that will allow multiple users to draw on a single canvas via their own client applications. During the course of this workshop, ll be exploring JS on the server, JS on the client, and communicating between the two using the two-way Web Sockets API. From this workshop, we hope to leave you with a greater understanding of the technologies driving some of the modern real-time web apps that you use every day- and perhaps knowing where to get started to create one of your own!
 

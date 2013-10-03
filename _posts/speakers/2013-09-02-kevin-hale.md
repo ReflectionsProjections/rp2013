@@ -5,6 +5,7 @@ photo_url: /images/speakers/kevinhale.jpg
 category: speakers
 one_line: Partner, Y Combinator
 session: "How to Run a Startup Like Genghis Khan"
+time_loc: "October 12th at 4 PM - Siebel 1404"
 ---
 
 

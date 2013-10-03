@@ -5,6 +5,7 @@ photo_url: /images/speakers/peter-norvig.jpg
 category: speakers
 one_line: "Director of Research, Google"
 session: "The Unreasonable Effectiveness of Data"
+time_loc: "October 13th at 2 PM - DCL 1320"
 ---
 
 

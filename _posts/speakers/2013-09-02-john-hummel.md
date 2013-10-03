@@ -5,6 +5,7 @@ photo_url: /images/speakers/john-hummel.jpg
 category: speakers
 one_line: "Professor, Department of Psychology<br />University of Illinois"
 session: "What Happened to the Human Brain?"
+time_loc: "October 12th at 2:45 PM - Siebel 1404"
 ---
 
 

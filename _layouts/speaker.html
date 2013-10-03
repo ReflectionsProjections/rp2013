@@ -2,7 +2,10 @@
 {% block main %}
 <div class="container clearfix">
 
-  <div class="sixteen columns"> <h1 class="page-title">{{ page.session }}<span class="line"></span></h1>
+  <div class="sixteen columns">
+      <h1 class="page-title">{{ page.session }}
+      <p class="talk-info">{{ page.time_loc }}</p>
+      <span class="line"></span></h1>
   </div><!-- Page Title -->
 
   <!-- Start Single Post -->
@@ -13,9 +16,9 @@
 
       <div class="post-content bottom">
         <div class="speaker-info">
-	<img  src="{{ site.url }}{{ page.photo_url }}" alt="{{ page.name }}" />
-        <span class="speaker-name" >{{ page.name }}<span>
-        <span class="speaker-title">{{ page.one_line }}<span>
+            <img src="{{ site.url }}{{ page.photo_url }}" alt="{{ page.name }}" />
+            <span class="speaker-name" >{{ page.name }}<span>
+            <span class="speaker-title">{{ page.one_line }}<span>
         </div>
 	{{ content }}
       </div><!-- End post-content -->

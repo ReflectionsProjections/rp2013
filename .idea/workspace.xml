@@ -4,35 +4,42 @@
     <list default="true" id="9c0f3cfa-78e9-4db8-8a68-6a44ae8bbe60" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/speakers/2013-05-27-joe-lonsdale.md" afterPath="$PROJECT_DIR$/_posts/speakers/2013-05-27-joe-lonsdale.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/speakers/2013-05-27-justin-tulloss.md" afterPath="$PROJECT_DIR$/_posts/speakers/2013-05-27-justin-tulloss.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/speakers/2013-05-27-peter-norvig.md" afterPath="$PROJECT_DIR$/_posts/speakers/2013-05-27-peter-norvig.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/speakers/2013-05-27-todd-fernandez.md" afterPath="$PROJECT_DIR$/_posts/speakers/2013-05-27-todd-fernandez.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/speakers/2013-06-20-jenny-murphy.md" afterPath="$PROJECT_DIR$/_posts/speakers/2013-06-20-jenny-murphy.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/speakers/2013-06-20-mike-shaver.md" afterPath="$PROJECT_DIR$/_posts/speakers/2013-06-20-mike-shaver.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/speakers/2013-09-02-brandon-wiley.md" afterPath="$PROJECT_DIR$/_posts/speakers/2013-09-02-brandon-wiley.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/speakers/2013-09-02-brian-smith.md" afterPath="$PROJECT_DIR$/_posts/speakers/2013-09-02-brian-smith.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/speakers/2013-09-02-collin-jackson.md" afterPath="$PROJECT_DIR$/_posts/speakers/2013-09-02-collin-jackson.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/speakers/2013-09-02-elizabeth-krumbach.md" afterPath="$PROJECT_DIR$/_posts/speakers/2013-09-02-elizabeth-krumbach.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/speakers/2013-09-02-jeremiah-jordan.md" afterPath="$PROJECT_DIR$/_posts/speakers/2013-09-02-jeremiah-jordan.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/speakers/2013-09-02-john-hummel.md" afterPath="$PROJECT_DIR$/_posts/speakers/2013-09-02-john-hummel.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/speakers/2013-09-02-josh-michaels.md" afterPath="$PROJECT_DIR$/_posts/speakers/2013-09-02-josh-michaels.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/speakers/2013-09-02-kevin-hale.md" afterPath="$PROJECT_DIR$/_posts/speakers/2013-09-02-kevin-hale.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/speakers/2013-09-02-paul-tagliamonte.md" afterPath="$PROJECT_DIR$/_posts/speakers/2013-09-02-paul-tagliamonte.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/speakers/2013-09-02-robin-walker.md" afterPath="$PROJECT_DIR$/_posts/speakers/2013-09-02-robin-walker.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/speakers/2013-10-01-jeff-meyers.md" afterPath="$PROJECT_DIR$/_posts/speakers/2013-10-01-jeff-meyers.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/speakers/2013-10-01-nick-martin.md" afterPath="$PROJECT_DIR$/_posts/speakers/2013-10-01-nick-martin.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/custom.css" afterPath="$PROJECT_DIR$/css/custom.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/speaker.html" afterPath="$PROJECT_DIR$/_layouts/speaker.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="rp2013.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="9c0f3cfa-78e9-4db8-8a68-6a44ae8bbe60" time="1380772028740" ignored="false" />
     <file path="/speakers.html" changelist="9c0f3cfa-78e9-4db8-8a68-6a44ae8bbe60" time="1378169008486" ignored="false" />
-    <file path="/custom.css" changelist="9c0f3cfa-78e9-4db8-8a68-6a44ae8bbe60" time="1379986594808" ignored="false" />
+    <file path="/custom.css" changelist="9c0f3cfa-78e9-4db8-8a68-6a44ae8bbe60" time="1380773919041" ignored="false" />
     <file path="/index.html" changelist="9c0f3cfa-78e9-4db8-8a68-6a44ae8bbe60" time="1379982365651" ignored="false" />
-    <file path="/2013-09-02-robin-walker.md" changelist="9c0f3cfa-78e9-4db8-8a68-6a44ae8bbe60" time="1378169845710" ignored="false" />
-    <file path="/2013-09-02-jeremiah-jordan.md" changelist="9c0f3cfa-78e9-4db8-8a68-6a44ae8bbe60" time="1378170973865" ignored="false" />
-    <file path="/2013-09-02-collin-jackson.md" changelist="9c0f3cfa-78e9-4db8-8a68-6a44ae8bbe60" time="1378170008116" ignored="false" />
-    <file path="/2013-09-02-brandon-wiley.md" changelist="9c0f3cfa-78e9-4db8-8a68-6a44ae8bbe60" time="1379987020062" ignored="false" />
-    <file path="/2013-09-02-brian-smith.md" changelist="9c0f3cfa-78e9-4db8-8a68-6a44ae8bbe60" time="1378170989877" ignored="false" />
-    <file path="/2013-09-02-elizabeth-krumbach.md" changelist="9c0f3cfa-78e9-4db8-8a68-6a44ae8bbe60" time="1379987157360" ignored="false" />
-    <file path="/2013-09-02-josh-michaels.md" changelist="9c0f3cfa-78e9-4db8-8a68-6a44ae8bbe60" time="1378170951997" ignored="false" />
+    <file path="/2013-09-02-robin-walker.md" changelist="9c0f3cfa-78e9-4db8-8a68-6a44ae8bbe60" time="1380774942033" ignored="false" />
+    <file path="/2013-09-02-jeremiah-jordan.md" changelist="9c0f3cfa-78e9-4db8-8a68-6a44ae8bbe60" time="1380774606095" ignored="false" />
+    <file path="/2013-09-02-collin-jackson.md" changelist="9c0f3cfa-78e9-4db8-8a68-6a44ae8bbe60" time="1380774839146" ignored="false" />
+    <file path="/2013-09-02-brandon-wiley.md" changelist="9c0f3cfa-78e9-4db8-8a68-6a44ae8bbe60" time="1380774415706" ignored="false" />
+    <file path="/2013-09-02-brian-smith.md" changelist="9c0f3cfa-78e9-4db8-8a68-6a44ae8bbe60" time="1380774869202" ignored="false" />
+    <file path="/2013-09-02-elizabeth-krumbach.md" changelist="9c0f3cfa-78e9-4db8-8a68-6a44ae8bbe60" time="1380774820242" ignored="false" />
+    <file path="/2013-09-02-josh-michaels.md" changelist="9c0f3cfa-78e9-4db8-8a68-6a44ae8bbe60" time="1380774031364" ignored="false" />
     <file path="/2013-09-02-jeff-garzik.md" changelist="9c0f3cfa-78e9-4db8-8a68-6a44ae8bbe60" time="1378170361544" ignored="false" />
-    <file path="/2013-09-02-kevin-hale.md" changelist="9c0f3cfa-78e9-4db8-8a68-6a44ae8bbe60" time="1378170392741" ignored="false" />
-    <file path="/2013-09-02-john-hummel.md" changelist="9c0f3cfa-78e9-4db8-8a68-6a44ae8bbe60" time="1378170927357" ignored="false" />
+    <file path="/2013-09-02-kevin-hale.md" changelist="9c0f3cfa-78e9-4db8-8a68-6a44ae8bbe60" time="1380774960952" ignored="false" />
+    <file path="/2013-09-02-john-hummel.md" changelist="9c0f3cfa-78e9-4db8-8a68-6a44ae8bbe60" time="1380774562518" ignored="false" />
     <file path="/career_fairs.html" changelist="9c0f3cfa-78e9-4db8-8a68-6a44ae8bbe60" time="1378172038964" ignored="false" />
     <file path="/2013-09-02-facebook.md" changelist="9c0f3cfa-78e9-4db8-8a68-6a44ae8bbe60" time="1378172146471" ignored="false" />
     <file path="/mechmania.html" changelist="9c0f3cfa-78e9-4db8-8a68-6a44ae8bbe60" time="1378173180130" ignored="false" />
@@ -66,10 +73,16 @@
     <file path="/base.html" changelist="9c0f3cfa-78e9-4db8-8a68-6a44ae8bbe60" time="1379982940042" ignored="false" />
     <file path="/schedule.html" changelist="9c0f3cfa-78e9-4db8-8a68-6a44ae8bbe60" time="1379543812198" ignored="false" />
     <file path="/puzzlebang.html" changelist="9c0f3cfa-78e9-4db8-8a68-6a44ae8bbe60" time="1379985234979" ignored="false" />
-    <file path="/speaker.html" changelist="9c0f3cfa-78e9-4db8-8a68-6a44ae8bbe60" time="1379986576370" ignored="false" />
-    <file path="/2013-05-27-joe-lonsdale.md" changelist="9c0f3cfa-78e9-4db8-8a68-6a44ae8bbe60" time="1379987087102" ignored="false" />
-    <file path="/2013-06-20-jenny-murphy.md" changelist="9c0f3cfa-78e9-4db8-8a68-6a44ae8bbe60" time="1379987122316" ignored="false" />
-    <file path="/2013-05-27-justin-tulloss.md" changelist="9c0f3cfa-78e9-4db8-8a68-6a44ae8bbe60" time="1380772474942" ignored="false" />
+    <file path="/speaker.html" changelist="9c0f3cfa-78e9-4db8-8a68-6a44ae8bbe60" time="1380773848493" ignored="false" />
+    <file path="/2013-05-27-joe-lonsdale.md" changelist="9c0f3cfa-78e9-4db8-8a68-6a44ae8bbe60" time="1380774160108" ignored="false" />
+    <file path="/2013-06-20-jenny-murphy.md" changelist="9c0f3cfa-78e9-4db8-8a68-6a44ae8bbe60" time="1380774473611" ignored="false" />
+    <file path="/2013-05-27-justin-tulloss.md" changelist="9c0f3cfa-78e9-4db8-8a68-6a44ae8bbe60" time="1380774058644" ignored="false" />
+    <file path="/2013-09-02-paul-tagliamonte.md" changelist="9c0f3cfa-78e9-4db8-8a68-6a44ae8bbe60" time="1380773513790" ignored="false" />
+    <file path="/2013-06-20-mike-shaver.md" changelist="9c0f3cfa-78e9-4db8-8a68-6a44ae8bbe60" time="1380774448380" ignored="false" />
+    <file path="/2013-05-27-todd-fernandez.md" changelist="9c0f3cfa-78e9-4db8-8a68-6a44ae8bbe60" time="1380774497179" ignored="false" />
+    <file path="/2013-05-27-peter-norvig.md" changelist="9c0f3cfa-78e9-4db8-8a68-6a44ae8bbe60" time="1380774527683" ignored="false" />
+    <file path="/2013-10-01-nick-martin.md" changelist="9c0f3cfa-78e9-4db8-8a68-6a44ae8bbe60" time="1380774907074" ignored="false" />
+    <file path="/2013-10-01-jeff-meyers.md" changelist="9c0f3cfa-78e9-4db8-8a68-6a44ae8bbe60" time="1380774922425" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,34 +105,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_site/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="151" column="62" selection-start="7163" selection-end="7163" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="base.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_layouts/base.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="115" column="66" selection-start="5624" selection-end="5624" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="mechmania.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mechmania.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="puzzlebang.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/puzzlebang.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="52" column="66" selection-start="3569" selection-end="3569" vertical-scroll-proportion="0.0">
+            <state line="151" column="62" selection-start="7163" selection-end="7163" vertical-scroll-proportion="-0.625">
               <folding />
             </state>
           </provider>
@@ -137,7 +123,7 @@
       <file leaf-file-name="speakers.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/speakers.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
               <folding />
             </state>
           </provider>
@@ -146,34 +132,16 @@
       <file leaf-file-name="speaker.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_layouts/speaker.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="10" selection-start="679" selection-end="679" vertical-scroll-proportion="-11.25">
+            <state line="7" column="36" selection-start="253" selection-end="253" vertical-scroll-proportion="-4.375">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="custom.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="custom.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/custom.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="0" selection-start="497" selection-end="497" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2013-05-27-justin-tulloss.md" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/speakers/2013-05-27-justin-tulloss.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="311" selection-start="1039" selection-end="1039" vertical-scroll-proportion="0.28455284">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2013-05-27-joe-lonsdale.md" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/speakers/2013-05-27-joe-lonsdale.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="29" column="71" selection-start="568" selection-end="568" vertical-scroll-proportion="0.20542635">
               <folding />
             </state>
           </provider>
@@ -197,22 +165,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/puzzlebang.html" />
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/_posts/speakers/2013-09-02-brandon-wiley.md" />
-        <option value="$PROJECT_DIR$/_posts/speakers/2013-05-27-joe-lonsdale.md" />
-        <option value="$PROJECT_DIR$/_posts/speakers/2013-05-27-todd-fernandez.md" />
-        <option value="$PROJECT_DIR$/_posts/speakers/2013-06-20-jenny-murphy.md" />
-        <option value="$PROJECT_DIR$/_posts/speakers/2013-09-02-brian-smith.md" />
-        <option value="$PROJECT_DIR$/_posts/speakers/2013-09-02-elizabeth-krumbach.md" />
-        <option value="$PROJECT_DIR$/_posts/speakers/2013-09-02-jeremiah-jordan.md" />
-        <option value="$PROJECT_DIR$/_posts/speakers/2013-09-02-john-hummel.md" />
-        <option value="$PROJECT_DIR$/_posts/speakers/2013-09-02-josh-michaels.md" />
-        <option value="$PROJECT_DIR$/_posts/speakers/2013-09-02-kevin-hale.md" />
-        <option value="$PROJECT_DIR$/_posts/speakers/2013-09-02-robin-walker.md" />
-        <option value="$PROJECT_DIR$/_layouts/speaker.html" />
-        <option value="$PROJECT_DIR$/css/custom.css" />
         <option value="$PROJECT_DIR$/_posts/speakers/2013-05-27-justin-tulloss.md" />
+        <option value="$PROJECT_DIR$/_posts/speakers/2013-05-27-joe-lonsdale.md" />
+        <option value="$PROJECT_DIR$/_posts/speakers/2013-09-02-brandon-wiley.md" />
+        <option value="$PROJECT_DIR$/_posts/speakers/2013-06-20-mike-shaver.md" />
+        <option value="$PROJECT_DIR$/_posts/speakers/2013-06-20-jenny-murphy.md" />
+        <option value="$PROJECT_DIR$/_posts/speakers/2013-05-27-todd-fernandez.md" />
+        <option value="$PROJECT_DIR$/_posts/speakers/2013-05-27-peter-norvig.md" />
+        <option value="$PROJECT_DIR$/_posts/speakers/2013-09-02-john-hummel.md" />
+        <option value="$PROJECT_DIR$/_posts/speakers/2013-09-02-jeremiah-jordan.md" />
+        <option value="$PROJECT_DIR$/_posts/speakers/2013-09-02-elizabeth-krumbach.md" />
+        <option value="$PROJECT_DIR$/_posts/speakers/2013-09-02-collin-jackson.md" />
+        <option value="$PROJECT_DIR$/_posts/speakers/2013-09-02-brian-smith.md" />
+        <option value="$PROJECT_DIR$/_posts/speakers/2013-10-01-nick-martin.md" />
+        <option value="$PROJECT_DIR$/_posts/speakers/2013-10-01-jeff-meyers.md" />
+        <option value="$PROJECT_DIR$/_posts/speakers/2013-09-02-robin-walker.md" />
+        <option value="$PROJECT_DIR$/_posts/speakers/2013-09-02-kevin-hale.md" />
       </list>
     </option>
   </component>
@@ -424,92 +392,114 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_posts/speakers/2013-05-27-todd-fernandez.md">
+    <entry file="file://$PROJECT_DIR$/_posts/speakers/2013-09-02-brandon-wiley.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="4" selection-start="915" selection-end="915" vertical-scroll-proportion="0.23653089" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/speakers/2013-06-20-jenny-murphy.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="0" selection-start="766" selection-end="766" vertical-scroll-proportion="0.3875969" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/speakers/2013-06-20-mike-shaver.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="82" selection-end="82" vertical-scroll-proportion="0.07751938" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/speakers/2013-09-02-brian-smith.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="4" selection-start="919" selection-end="919" vertical-scroll-proportion="0.2562418" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/speakers/2013-09-02-collin-jackson.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/speakers/2013-09-02-elizabeth-krumbach.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="0" selection-start="643" selection-end="643" vertical-scroll-proportion="0.33954728" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/speakers/2013-09-02-jeremiah-jordan.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="4" selection-start="708" selection-end="708" vertical-scroll-proportion="0.2562418" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/speakers/2013-09-02-john-hummel.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="4" selection-start="1032" selection-end="1032" vertical-scroll-proportion="0.23653089" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/speakers/2013-09-02-josh-michaels.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="0" selection-start="1389" selection-end="1389" vertical-scroll-proportion="0.2956636" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/speakers/2013-09-02-kevin-hale.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="0" selection-start="705" selection-end="705" vertical-scroll-proportion="0.37450722" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/speakers/2013-09-02-robin-walker.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="0" selection-start="1139" selection-end="1139" vertical-scroll-proportion="0.2759527" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_site/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="151" column="62" selection-start="7163" selection-end="7163" vertical-scroll-proportion="0.0">
+        <state line="7" column="48" selection-start="337" selection-end="337" vertical-scroll-proportion="0.14227642">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/speaker.html">
+    <entry file="file://$PROJECT_DIR$/_posts/speakers/2013-06-20-mike-shaver.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="10" selection-start="679" selection-end="679" vertical-scroll-proportion="-11.25">
+        <state line="7" column="48" selection-start="233" selection-end="233" vertical-scroll-proportion="0.14227642">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/speakers/2013-06-20-jenny-murphy.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="45" selection-start="242" selection-end="242" vertical-scroll-proportion="0.13981359">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/speakers/2013-05-27-todd-fernandez.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="48" selection-start="284" selection-end="284" vertical-scroll-proportion="0.14227642">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/speakers/2013-05-27-peter-norvig.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="42" selection-start="236" selection-end="236" vertical-scroll-proportion="0.13797635">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/speakers/2013-09-02-john-hummel.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="48" selection-start="270" selection-end="270" vertical-scroll-proportion="0.14227642">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/speakers/2013-09-02-jeremiah-jordan.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="42" selection-start="288" selection-end="288" vertical-scroll-proportion="0.14227642">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/speakers/2013-09-02-elizabeth-krumbach.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="49" selection-start="270" selection-end="270" vertical-scroll-proportion="0.13981359">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/speakers/2013-09-02-collin-jackson.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="46" selection-start="284" selection-end="284" vertical-scroll-proportion="0.15768725">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/speakers/2013-09-02-brian-smith.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="48" selection-start="235" selection-end="235" vertical-scroll-proportion="0.15768725">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/speakers/2013-09-02-josh-michaels.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="45" selection-start="259" selection-end="259" vertical-scroll-proportion="0.13797635">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/speakers/2013-10-01-nick-martin.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="45" selection-start="269" selection-end="269" vertical-scroll-proportion="0.16260162">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/speakers/2013-10-01-jeff-meyers.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="45" selection-start="269" selection-end="269" vertical-scroll-proportion="0.16260162">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/speakers/2013-09-02-robin-walker.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="45" selection-start="308" selection-end="308" vertical-scroll-proportion="0.13797635">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/speakers/2013-09-02-kevin-hale.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="0" selection-start="180" selection-end="180" vertical-scroll-proportion="0.13797635">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/custom.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="0" selection-start="497" selection-end="497" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/speakers/2013-05-27-joe-lonsdale.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/speakers/2013-05-27-justin-tulloss.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="311" selection-start="1039" selection-end="1039" vertical-scroll-proportion="0.28455284">
+        <state line="29" column="71" selection-start="568" selection-end="568" vertical-scroll-proportion="0.20542635">
           <folding />
         </state>
       </provider>
