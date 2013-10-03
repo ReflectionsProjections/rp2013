@@ -5,8 +5,8 @@ photo_url: /images/speakers/joe-lonsdale.jpg
 category: speakers
 one_line: "Founder, Addepar and Palantir<br />
 Partner, Formation 8"
+session: "Man-Machine Symbiosis and the Smart Enterprise Wave"
 ---
-# Man-Machine Symbiosis and the Smart Enterprise Wave
 Over the last hundred years, five major trends have dominated Silicon
 Valley (SV): “Electronic Tools,” “Semiconductor,” “Enterprise,”
 “Telecom,” and “Consumer.” A sixth trend has emerged. We call it

@@ -4,8 +4,9 @@ name: Kevin Hale
 photo_url: /images/speakers/kevinhale.jpg
 category: speakers
 one_line: Partner, Y Combinator
+session: "How to Run a Startup Like Genghis Khan"
 ---
-# How to Run a Startup Like Genghis Khan
+
 
 In twenty-five years, the Mongol army subjugated more lands and
 people than the Romans had conquered in four hundred years. Whether

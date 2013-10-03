@@ -4,8 +4,9 @@ name: Elizabeth Krumbach Joseph
 photo_url: /images/speakers/elizabeth-krumbach.jpg
 category: speakers
 one_line: "Automation and Tools Engineer, HP"
+session: "A Career in Free and Open Source Software"
 ---
-# A Career in Free and Open Source Software
+
 How can you build a career working on Free and Open Source Software
 (F/OSS)? Elizabeth will talk about her own career in F/OSS, including
 social and volunteer involvement in projects and user groups, early
