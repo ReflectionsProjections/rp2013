@@ -19,6 +19,8 @@ best practices and give a glimpse at the future of personal computing
 we are creating together.  Plenty of time will be left for questions
 and conversation.
 
+<br/>
+
 ## About Jenny
 Jenny is a Staff Developer Programs Engineer on Google Glass. In this
 role she helps developers use Google APIs and technologies to build

@@ -11,6 +11,7 @@ session: "Using Apache Cassandra for Big Data: What is this thing, and how do I 
 
 An introduction to some of the basics of Apache Cassandra, followed by actually getting it up and running. This presentation will go over what Apache Cassandra is and how to get it up and running on your development machine. It will go over using the Cassandra Query Language (CQL) to create tables, write data to them, and then read it back out. After the basics it will go into using the python-driver to actually write some code which uses the database.
 
+<br/>
 
 ## About Jeremiah
 Jeremiah Jordan is a Senior Software Engineer and the Technical Lead

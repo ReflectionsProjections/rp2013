@@ -15,6 +15,8 @@ working on the OpenStack Infrastructure team where she works closely
 and openly with individuals from several other companies on a F/OSS
 product.
 
+<br/>
+
 ## About Elizabeth
 In her role in HP, Elizabeth works directly on the
 OpenStack open source project on the core infrastructure team. This

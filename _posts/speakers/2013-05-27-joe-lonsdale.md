@@ -31,6 +31,8 @@ companies produce technology which humans can leverage to solve big,
 unstructured problems which have outsized impact on our economy and
 society.
 
+<br/>
+
 ## About Joe
 Joe Lonsdale is a Partner at Formation 8, a fund which invests in top
 Silicon Valley entrepreneurs and connects them with Asian
