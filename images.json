@@ -11,7 +11,8 @@
         },
         "startupfair_map": {
             "url": "/images/maps/startupfair_map.png",
+            "title": "Startup Fair Map",
             "description": "A map of the companies attending the Reflections | Projections 2013 Startup Fair."
-        },
+        }
     }
 }
