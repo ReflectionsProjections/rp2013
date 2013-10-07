@@ -1,0 +1,17 @@
+---
+---
+{
+    "description": "Links to images relevant to the Reflections | Projections 2013 Confernece. Used by the mobile applications.",
+    "base_url": "{{ site.url }}",
+    "images": {
+        "jobfair_map": {
+            "url": "/images/maps/jobfair_map.png",
+            "title": "Job Fair Map",
+           "description": "A map of the companies attending the Reflections | Projections 2013 Job Fair."
+        },
+        "startupfair_map": {
+            "url": "/images/maps/startupfair_map.png",
+            "description": "A map of the companies attending the Reflections | Projections 2013 Startup Fair."
+        },
+    }
+}
