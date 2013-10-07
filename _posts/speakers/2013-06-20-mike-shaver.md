@@ -5,6 +5,7 @@ photo_url: /images/speakers/mike-shaver.jpg
 category: speakers
 one_line: "Engineering Director, Facebook"
 session: "Talk information coming soon!"
+time_loc: "October 11th at 7:45 PM - Siebel 1404"
 ---
 
 ## About Mike

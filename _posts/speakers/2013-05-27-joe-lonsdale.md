@@ -6,6 +6,7 @@ category: speakers
 one_line: "Founder, Addepar and Palantir<br />
 Partner, Formation 8"
 session: "Man-Machine Symbiosis and the Smart Enterprise Wave"
+time_loc: "October 11th at 5 PM - Siebel 1404"
 ---
 Over the last hundred years, five major trends have dominated Silicon
 Valley (SV): “Electronic Tools,” “Semiconductor,” “Enterprise,”
@@ -30,6 +31,8 @@ technology can replace humans anytime soon. Instead, Smart Enterprise
 companies produce technology which humans can leverage to solve big,
 unstructured problems which have outsized impact on our economy and
 society.
+
+<br/>
 
 ## About Joe
 Joe Lonsdale is a Partner at Formation 8, a fund which invests in top

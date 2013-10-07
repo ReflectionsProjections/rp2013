@@ -5,6 +5,7 @@ photo_url: /images/speakers/elizabeth-krumbach.jpg
 category: speakers
 one_line: "Automation and Tools Engineer, HP"
 session: "A Career in Free and Open Source Software"
+time_loc: "October 12th at 11:15 PM - Siebel 1404"
 ---
 
 How can you build a career working on Free and Open Source Software
@@ -14,6 +15,8 @@ jobs she had that focused on using F/OSS and her current role at HP
 working on the OpenStack Infrastructure team where she works closely
 and openly with individuals from several other companies on a F/OSS
 product.
+
+<br/>
 
 ## About Elizabeth
 In her role in HP, Elizabeth works directly on the

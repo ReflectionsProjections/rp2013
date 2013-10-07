@@ -5,6 +5,7 @@ photo_url: /images/speakers/jenny-murphy.jpg
 category: speakers
 one_line: "Staff Developer Programs Engineer, Google"
 session: "Exploring the Glass Platform"
+time_loc: "October 12th at 6:30 PM - DCL 1320"
 ---
 
 
@@ -18,6 +19,8 @@ Examples of current and future Glassware will be shown to demonstrate
 best practices and give a glimpse at the future of personal computing
 we are creating together.  Plenty of time will be left for questions
 and conversation.
+
+<br/>
 
 ## About Jenny
 Jenny is a Staff Developer Programs Engineer on Google Glass. In this
