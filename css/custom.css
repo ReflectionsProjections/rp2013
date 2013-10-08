@@ -94,3 +94,22 @@ img.company-logo {
     right: 0;
     bottom: 0;
 }
+
+.mobile-info {
+    background-color: #ba1151;
+    color: #eeefff;
+    text-shadow: none;
+    padding: 30px 3%;
+    overflow: hidden;
+    font-size: 16px;
+    text-align: center;
+}
+
+.mobile-info a {
+    color: #eeefff;
+    font-weight: bold;
+}
+
+.mobile-info a:hover {
+    color: #686868;
+}
