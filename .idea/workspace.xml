@@ -2,14 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9c0f3cfa-78e9-4db8-8a68-6a44ae8bbe60" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/schedule.html" afterPath="$PROJECT_DIR$/schedule.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/custom.css" afterPath="$PROJECT_DIR$/css/custom.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="rp2013.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="9c0f3cfa-78e9-4db8-8a68-6a44ae8bbe60" time="1381192753412" ignored="false" />
     <file path="/speakers.html" changelist="9c0f3cfa-78e9-4db8-8a68-6a44ae8bbe60" time="1378169008486" ignored="false" />
-    <file path="/custom.css" changelist="9c0f3cfa-78e9-4db8-8a68-6a44ae8bbe60" time="1380773919041" ignored="false" />
-    <file path="/index.html" changelist="9c0f3cfa-78e9-4db8-8a68-6a44ae8bbe60" time="1379982365651" ignored="false" />
+    <file path="/custom.css" changelist="9c0f3cfa-78e9-4db8-8a68-6a44ae8bbe60" time="1381196289785" ignored="false" />
+    <file path="/index.html" changelist="9c0f3cfa-78e9-4db8-8a68-6a44ae8bbe60" time="1381195955556" ignored="false" />
     <file path="/2013-09-02-robin-walker.md" changelist="9c0f3cfa-78e9-4db8-8a68-6a44ae8bbe60" time="1380774942033" ignored="false" />
     <file path="/2013-09-02-jeremiah-jordan.md" changelist="9c0f3cfa-78e9-4db8-8a68-6a44ae8bbe60" time="1380774606095" ignored="false" />
     <file path="/2013-09-02-collin-jackson.md" changelist="9c0f3cfa-78e9-4db8-8a68-6a44ae8bbe60" time="1381192803227" ignored="false" />
@@ -85,7 +87,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_site/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="151" column="62" selection-start="7163" selection-end="7163" vertical-scroll-proportion="0.0">
+            <state line="154" column="62" selection-start="7291" selection-end="7291" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -94,7 +96,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="135" selection-start="505" selection-end="505" vertical-scroll-proportion="0.0">
+            <state line="14" column="8" selection-start="724" selection-end="724" vertical-scroll-proportion="-8.75">
               <folding />
             </state>
           </provider>
@@ -118,10 +120,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="custom.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="custom.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/custom.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="71" selection-start="568" selection-end="568" vertical-scroll-proportion="0.0">
+            <state line="113" column="17" selection-start="1836" selection-end="1836" vertical-scroll-proportion="0.9587217">
               <folding />
             </state>
           </provider>
@@ -136,10 +138,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="schedule.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="schedule.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/schedule.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="231" column="146" selection-start="9878" selection-end="9878" vertical-scroll-proportion="0.47478992">
+            <state line="231" column="146" selection-start="9878" selection-end="9878" vertical-scroll-proportion="-14.125">
               <folding />
             </state>
           </provider>
@@ -181,8 +183,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/_posts/speakers/2013-05-27-joe-lonsdale.md" />
-        <option value="$PROJECT_DIR$/_posts/speakers/2013-09-02-brandon-wiley.md" />
         <option value="$PROJECT_DIR$/_posts/speakers/2013-06-20-mike-shaver.md" />
         <option value="$PROJECT_DIR$/_posts/speakers/2013-06-20-jenny-murphy.md" />
         <option value="$PROJECT_DIR$/_posts/speakers/2013-05-27-todd-fernandez.md" />
@@ -197,6 +197,8 @@
         <option value="$PROJECT_DIR$/_posts/speakers/2013-09-02-collin-jackson.md" />
         <option value="$PROJECT_DIR$/_posts/speakers/2013-09-02-brian-smith.md" />
         <option value="$PROJECT_DIR$/schedule.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/custom.css" />
       </list>
     </option>
   </component>
@@ -390,11 +392,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_posts/speakers/2013-05-27-peter-norvig.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="42" selection-start="236" selection-end="236" vertical-scroll-proportion="0.13797635" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/speakers/2013-09-02-john-hummel.md">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="48" selection-start="270" selection-end="270" vertical-scroll-proportion="0.14227642" />
@@ -435,13 +432,6 @@
         <state line="7" column="0" selection-start="180" selection-end="180" vertical-scroll-proportion="0.13797635" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/custom.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="71" selection-start="568" selection-end="568" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/speaker.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="36" selection-start="253" selection-end="253" vertical-scroll-proportion="0.0">
@@ -458,7 +448,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_site/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="151" column="62" selection-start="7163" selection-end="7163" vertical-scroll-proportion="0.0">
+        <state line="154" column="62" selection-start="7291" selection-end="7291" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -479,7 +469,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/schedule.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="231" column="146" selection-start="9878" selection-end="9878" vertical-scroll-proportion="0.47478992">
+        <state line="231" column="146" selection-start="9878" selection-end="9878" vertical-scroll-proportion="-14.125">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="8" selection-start="724" selection-end="724" vertical-scroll-proportion="-8.75">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="113" column="17" selection-start="1836" selection-end="1836" vertical-scroll-proportion="0.9587217">
           <folding />
         </state>
       </provider>
