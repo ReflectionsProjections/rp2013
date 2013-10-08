@@ -6,7 +6,7 @@ category: speakers
 one_line: "Co-Founder and CEO, Apportable<br />
 Assistant Research Professor, CMU"
 session: "Dive into Cross-Platform Objective-C"
-time_loc: "October 12th at 11:15 PM - DCL 1320"
+time_loc: "October 12th at 11:15 AM - DCL 1320"
 ---
 
 
