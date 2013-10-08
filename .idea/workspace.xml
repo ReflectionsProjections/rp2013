@@ -2,301 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9c0f3cfa-78e9-4db8-8a68-6a44ae8bbe60" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/maps/jobfair_map.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/maps/startupfair_map.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images.json" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/about.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/css/base.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/css/bg/back_pattern.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/css/bg/black_mamba.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/css/bg/black_thread.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/css/bg/checkered_pattern.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/css/bg/classy_fabric.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/css/bg/crossed_stripes.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/css/bg/diagmonds.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/css/bg/diamond_upholstery.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/css/bg/graphy.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/css/bg/low_contrast_linen.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/css/bg/lyonnette.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/css/bg/retina_wood.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/css/bg/subtlenet2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/css/bg/triangles.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/css/bg/vichy.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/css/custom.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/css/fonts.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/css/fonts/TitilliumText22L001-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/css/fonts/TitilliumText22L001-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/css/fonts/TitilliumText22L001-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/css/fonts/TitilliumText22L001-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/css/fonts/TitilliumText22L002-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/css/fonts/TitilliumText22L002-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/css/fonts/TitilliumText22L002-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/css/fonts/TitilliumText22L002-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/css/fonts/TitilliumText22L003-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/css/fonts/TitilliumText22L003-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/css/fonts/TitilliumText22L003-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/css/fonts/TitilliumText22L003-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/css/fonts/TitilliumText22L004-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/css/fonts/TitilliumText22L004-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/css/fonts/TitilliumText22L004-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/css/fonts/TitilliumText22L004-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/css/fonts/TitilliumText22L005-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/css/fonts/TitilliumText22L005-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/css/fonts/TitilliumText22L005-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/css/fonts/TitilliumText22L005-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/css/fonts/TitilliumText22L006-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/css/fonts/TitilliumText22L006-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/css/fonts/TitilliumText22L006-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/css/fonts/TitilliumText22L006-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/css/icons.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/css/javascript.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/css/layout/boxed.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/css/layout/icons/back_pattern.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/css/layout/icons/black_mamba.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/css/layout/icons/black_thread.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/css/layout/icons/checkered_pattern.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/css/layout/icons/crossed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/css/layout/icons/diagmonds.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/css/layout/icons/diamond_upholstery.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/css/layout/icons/fabric.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/css/layout/icons/graphy.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/css/layout/icons/linen.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/css/layout/icons/lyonnette.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/css/layout/icons/subtlenet2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/css/layout/icons/switcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/css/layout/icons/triangles.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/css/layout/icons/vichy.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/css/layout/icons/wood.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/css/layout/icons/woven.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/css/layout/switcher.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/css/layout/wide.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/css/main.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/css/shortcodes.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/css/skeleton.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/css/skins/blue.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/css/skins/green.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/css/skins/orange.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/css/skins/purple.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/css/skins/red.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/css/syntax.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/css/uniform.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/favicon/apple-touch-icon-114x114.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/favicon/apple-touch-icon-72x72.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/favicon/apple-touch-icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/favicon/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/accordion-icons.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/blockqoute.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/digg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/error-close.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/error.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/facebook.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/icons/icons-blue.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/icons/icons-gray.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/icons/icons-green.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/icons/icons-orange.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/icons/icons-purple.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/icons/icons-red.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/icons/icons-white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/icons/icons.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/icons/pricing-tabe-icons-blue.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/icons/pricing-tabe-icons-green.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/icons/pricing-tabe-icons-orange.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/icons/pricing-tabe-icons-purple.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/icons/pricing-tabe-icons-red.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/icons/social-icons-blue.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/icons/social-icons-green.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/icons/social-icons-orange.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/icons/social-icons-purple.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/icons/social-icons-red.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/icons/social-icons.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/info-close.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/info.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/link.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/linkedin.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/list-icons/arrow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/list-icons/arrow2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/list-icons/check.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/list-icons/circle.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/list-icons/cross.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/list-icons/minus.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/list-icons/plus.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/list-icons/square.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/list-icons/star.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/notice-close.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/notice.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/pricing-tabe-icons.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/process/deliver-big.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/process/deliver-blue.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/process/deliver-green.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/process/deliver-orange.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/process/deliver-purple.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/process/deliver-red.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/process/deliver.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/process/design-big.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/process/design-blue.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/process/design-green.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/process/design-orange.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/process/design-purple.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/process/design-red.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/process/design.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/process/develop-big.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/process/develop-blue.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/process/develop-green.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/process/develop-orange.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/process/develop-purple.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/process/develop-red.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/process/develop.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/process/search-big.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/process/search-blue.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/process/search-green.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/process/search-orange.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/process/search-purple.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/process/search-red.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/process/search.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/project-slider-arrow-left.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/project-slider-arrow-right.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/right.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/search-icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/services/branding-blue.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/services/branding-green.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/services/branding-orange.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/services/branding-purple.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/services/branding-red.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/services/branding-small.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/services/branding.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/services/development-blue.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/services/development-green.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/services/development-orange.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/services/development-purple.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/services/development-red.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/services/development-small.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/services/seo-small.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/services/social-small.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/services/strategy.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/services/webdesign-blue.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/services/webdesign-green.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/services/webdesign-orange.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/services/webdesign-purple.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/services/webdesign-red.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/services/webdesign-small.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/services/webdesign.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/services/wordpress-blue.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/services/wordpress-green.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/services/wordpress-orange.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/services/wordpress-purple.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/services/wordpress-red.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/services/wordpress-small.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/services/wordpress.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/skype.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/success-close.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/success.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/testimonials-arrow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/totop.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/twitter-icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/twitter.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/vimeo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/icons/zoom.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/img/blog/avatar.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/img/blog/post-image-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/img/blog/post-image-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/img/blog/post-image-small-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/img/blog/post-image-small-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/img/blog/thumb-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/img/blog/thumb-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/img/clients/client-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/img/clients/client-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/img/clients/client-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/img/clients/client-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/img/clients/client-5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/img/portfolio/photo-1-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/img/portfolio/photo-1-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/img/portfolio/photo-2-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/img/portfolio/photo-2-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/img/sliders/slider-1-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/img/sliders/slider-1-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/img/sliders/slider-1-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/img/sliders/slider-1-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/img/sliders/slider-1-5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/img/sliders/thumbs/slider-1-1-thumb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/img/sliders/thumbs/slider-1-2-thumb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/img/sliders/thumbs/slider-1-3-thumb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/img/sliders/thumbs/slider-1-4-thumb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/img/sliders/thumbs/slider-1-5-thumb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/img/team/author.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/img/team/member-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/img/thumbs/thumb-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/img/thumbs/thumb-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/img/thumbs/thumb-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/img/thumbs/thumb-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/img/whyus.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/photos/ciara.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/photos/garry.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/photos/hulu.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/photos/imc.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/photos/jobfair.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/photos/jobfair_above.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/photos/jobfair_above2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/photos/mo.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/photos/mo2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/photos/radu.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/photos/table.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/photos/workshop.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/photos/zed.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/prettyPhoto/default/default_thumb.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/prettyPhoto/default/loader.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/prettyPhoto/default/sprite.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/prettyPhoto/default/sprite_next.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/prettyPhoto/default/sprite_prev.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/prettyPhoto/default/sprite_x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/prettyPhoto/default/sprite_y.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/speakers/joe-lonsdale.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/speakers/placeholder.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/uniform/bg-input-focus.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/uniform/bg-input.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/images/uniform/sprite.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/js/carousel.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/js/colortip.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/js/custom.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/js/ddsmoothmenu.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/js/html5.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/js/jflickrfeed.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/js/jquery-1.7.2.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/js/jquery-ui.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/js/jquery.cookie.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/js/jquery.easing.1.3.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/js/jquery.eislideshow.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/js/jquery.flexslider.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/js/jquery.iconmenu.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/js/jquery.isotope.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/js/jquery.prettyPhoto.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/js/jquery.tweet.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/js/jquery.ui.totop.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/js/jquery.uniform.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/js/selectnav.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/js/styleswitch.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/js/twitter-flickr-options.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/js/tytabs.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/js/under-construction.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/news.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/news/2013/05/13/new-website.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/register.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/speakers.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/speakers/2013/05/27/elizabeth-krumbach.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/speakers/2013/05/27/hava-siegelmann.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/speakers/2013/05/27/jenny-murphy.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/speakers/2013/05/27/joe-lonsdale.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/speakers/2013/05/27/john-hummel.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/speakers/2013/05/27/mike-shaver.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/speakers/2013/05/27/robin-walker.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/serve/speakers/2013/05/27/todd-fernandez.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/speakers/2013-09-02-brian-smith.md" afterPath="$PROJECT_DIR$/_posts/speakers/2013-09-02-brian-smith.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/speakers/2013-09-02-collin-jackson.md" afterPath="$PROJECT_DIR$/_posts/speakers/2013-09-02-collin-jackson.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/speakers/2013-09-02-paul-tagliamonte.md" afterPath="$PROJECT_DIR$/_posts/speakers/2013-09-02-paul-tagliamonte.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/schedule.html" afterPath="$PROJECT_DIR$/schedule.html" />
     </list>
     <ignored path="rp2013.iws" />
@@ -346,7 +51,7 @@
     <file path="/2013-09-02-spacex.md" changelist="9c0f3cfa-78e9-4db8-8a68-6a44ae8bbe60" time="1378174866813" ignored="false" />
     <file path="/volunteers.html" changelist="9c0f3cfa-78e9-4db8-8a68-6a44ae8bbe60" time="1378176638531" ignored="false" />
     <file path="/base.html" changelist="9c0f3cfa-78e9-4db8-8a68-6a44ae8bbe60" time="1379982940042" ignored="false" />
-    <file path="/schedule.html" changelist="9c0f3cfa-78e9-4db8-8a68-6a44ae8bbe60" time="1379543812198" ignored="false" />
+    <file path="/schedule.html" changelist="9c0f3cfa-78e9-4db8-8a68-6a44ae8bbe60" time="1381194753424" ignored="false" />
     <file path="/puzzlebang.html" changelist="9c0f3cfa-78e9-4db8-8a68-6a44ae8bbe60" time="1379985234979" ignored="false" />
     <file path="/speaker.html" changelist="9c0f3cfa-78e9-4db8-8a68-6a44ae8bbe60" time="1380773848493" ignored="false" />
     <file path="/2013-05-27-joe-lonsdale.md" changelist="9c0f3cfa-78e9-4db8-8a68-6a44ae8bbe60" time="1380774160108" ignored="false" />
@@ -422,10 +127,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2013-09-02-brian-smith.md" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="2013-09-02-brian-smith.md" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/speakers/2013-09-02-brian-smith.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="0" selection-start="140" selection-end="140" vertical-scroll-proportion="0.12195122">
+            <state line="6" column="0" selection-start="140" selection-end="140" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="schedule.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/schedule.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="231" column="146" selection-start="9878" selection-end="9878" vertical-scroll-proportion="0.47478992">
               <folding />
             </state>
           </provider>
@@ -467,7 +181,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/_posts/speakers/2013-05-27-justin-tulloss.md" />
         <option value="$PROJECT_DIR$/_posts/speakers/2013-05-27-joe-lonsdale.md" />
         <option value="$PROJECT_DIR$/_posts/speakers/2013-09-02-brandon-wiley.md" />
         <option value="$PROJECT_DIR$/_posts/speakers/2013-06-20-mike-shaver.md" />
@@ -483,6 +196,7 @@
         <option value="$PROJECT_DIR$/_posts/speakers/2013-09-02-kevin-hale.md" />
         <option value="$PROJECT_DIR$/_posts/speakers/2013-09-02-collin-jackson.md" />
         <option value="$PROJECT_DIR$/_posts/speakers/2013-09-02-brian-smith.md" />
+        <option value="$PROJECT_DIR$/schedule.html" />
       </list>
     </option>
   </component>
@@ -559,24 +273,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="_posts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="speakers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rp2013" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rp2013" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="_layouts" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -618,7 +314,7 @@
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23712067" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.09456599" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -694,11 +390,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_posts/speakers/2013-05-27-todd-fernandez.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="48" selection-start="284" selection-end="284" vertical-scroll-proportion="0.14227642" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/speakers/2013-05-27-peter-norvig.md">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="42" selection-start="236" selection-end="236" vertical-scroll-proportion="0.13797635" />
@@ -781,7 +472,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/speakers/2013-09-02-brian-smith.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="140" selection-end="140" vertical-scroll-proportion="0.12195122">
+        <state line="6" column="0" selection-start="140" selection-end="140" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schedule.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="231" column="146" selection-start="9878" selection-end="9878" vertical-scroll-proportion="0.47478992">
           <folding />
         </state>
       </provider>
