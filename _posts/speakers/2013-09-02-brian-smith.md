@@ -13,4 +13,4 @@ time_loc: "October 12th at 6:30 PM - Siebel 1404"
 <br />
 
 ## About Brian
-Brian Smith has had a fascination with consumer software since he built a social music player for Engineering Open House as part of SIGSoft. Smith graduated from UIUC in 2008 and spent a couple years figuring out what he t want to do before joining Dropbox in 2010. Since then, s worked on a variety of projects at Dropbox, having most recently launched the Datastores API at DBX in July.
+Brian Smith has had a fascination with consumer software since he built a social music player for Engineering Open House as part of SIGSoft. Smith graduated from UIUC in 2008 and spent a couple years figuring out what he wanted to do before joining Dropbox in 2010. Since then, Brian has worked on a variety of projects at Dropbox, having most recently launched the Datastores API at DBX in July.
