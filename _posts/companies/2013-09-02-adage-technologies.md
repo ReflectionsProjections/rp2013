@@ -1,7 +1,7 @@
 ---
+external_url: http://www.adagetechnologies.com/
 layout: company
 name: Adage Technologies
-external_url: http://www.adagetechnologies.com/
 photo_url: /images/companies/adage.png
 category: companies
 ---
