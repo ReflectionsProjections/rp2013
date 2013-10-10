@@ -1,4 +1,5 @@
 ---
+external_url: http://ea.avature.net/university
 layout: company
 name: Electronic Arts
 photo_url: /images/companies/ea.jpg
