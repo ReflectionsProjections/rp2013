@@ -2,13 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9c0f3cfa-78e9-4db8-8a68-6a44ae8bbe60" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/custom.css" afterPath="$PROJECT_DIR$/css/custom.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/schedule.html" afterPath="$PROJECT_DIR$/schedule.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="rp2013.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="9c0f3cfa-78e9-4db8-8a68-6a44ae8bbe60" time="1381192753412" ignored="false" />
+    <file path="/Dummy.txt" changelist="9c0f3cfa-78e9-4db8-8a68-6a44ae8bbe60" time="1381513915024" ignored="false" />
     <file path="/speakers.html" changelist="9c0f3cfa-78e9-4db8-8a68-6a44ae8bbe60" time="1378169008486" ignored="false" />
     <file path="/custom.css" changelist="9c0f3cfa-78e9-4db8-8a68-6a44ae8bbe60" time="1381196289785" ignored="false" />
     <file path="/index.html" changelist="9c0f3cfa-78e9-4db8-8a68-6a44ae8bbe60" time="1381195955556" ignored="false" />
@@ -53,7 +52,7 @@
     <file path="/2013-09-02-spacex.md" changelist="9c0f3cfa-78e9-4db8-8a68-6a44ae8bbe60" time="1378174866813" ignored="false" />
     <file path="/volunteers.html" changelist="9c0f3cfa-78e9-4db8-8a68-6a44ae8bbe60" time="1378176638531" ignored="false" />
     <file path="/base.html" changelist="9c0f3cfa-78e9-4db8-8a68-6a44ae8bbe60" time="1379982940042" ignored="false" />
-    <file path="/schedule.html" changelist="9c0f3cfa-78e9-4db8-8a68-6a44ae8bbe60" time="1381194753424" ignored="false" />
+    <file path="/schedule.html" changelist="9c0f3cfa-78e9-4db8-8a68-6a44ae8bbe60" time="1381514206385" ignored="false" />
     <file path="/puzzlebang.html" changelist="9c0f3cfa-78e9-4db8-8a68-6a44ae8bbe60" time="1379985234979" ignored="false" />
     <file path="/speaker.html" changelist="9c0f3cfa-78e9-4db8-8a68-6a44ae8bbe60" time="1380773848493" ignored="false" />
     <file path="/2013-05-27-joe-lonsdale.md" changelist="9c0f3cfa-78e9-4db8-8a68-6a44ae8bbe60" time="1380774160108" ignored="false" />
@@ -87,7 +86,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_site/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="154" column="62" selection-start="7291" selection-end="7291" vertical-scroll-proportion="0.0">
+            <state line="136" column="62" selection-start="6537" selection-end="6537" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -96,7 +95,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="8" selection-start="724" selection-end="724" vertical-scroll-proportion="-8.75">
+            <state line="14" column="8" selection-start="724" selection-end="724" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -120,10 +119,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="custom.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="custom.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/custom.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="113" column="17" selection-start="1836" selection-end="1836" vertical-scroll-proportion="0.9587217">
+            <state line="118" column="17" selection-start="1900" selection-end="1900" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -138,10 +137,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="schedule.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="schedule.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/schedule.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="231" column="146" selection-start="9878" selection-end="9878" vertical-scroll-proportion="-14.125">
+            <state line="77" column="66" selection-start="2625" selection-end="2625" vertical-scroll-proportion="0.48184356">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2013-10-10-keith-adams.md" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/speakers/2013-10-10-keith-adams.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -196,9 +204,9 @@
         <option value="$PROJECT_DIR$/_posts/speakers/2013-09-02-kevin-hale.md" />
         <option value="$PROJECT_DIR$/_posts/speakers/2013-09-02-collin-jackson.md" />
         <option value="$PROJECT_DIR$/_posts/speakers/2013-09-02-brian-smith.md" />
-        <option value="$PROJECT_DIR$/schedule.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/custom.css" />
+        <option value="$PROJECT_DIR$/schedule.html" />
       </list>
     </option>
   </component>
@@ -232,7 +240,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -261,6 +268,38 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rp2013" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rp2013" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="speakers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rp2013" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rp2013" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="_posts" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -275,12 +314,17 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="_layouts" />
+              <option name="myItemId" value="_posts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="speakers" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -316,7 +360,7 @@
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.09456599" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15102328" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -392,11 +436,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_posts/speakers/2013-09-02-john-hummel.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="48" selection-start="270" selection-end="270" vertical-scroll-proportion="0.14227642" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/speakers/2013-09-02-jeremiah-jordan.md">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="42" selection-start="288" selection-end="288" vertical-scroll-proportion="0.14227642" />
@@ -448,7 +487,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_site/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="154" column="62" selection-start="7291" selection-end="7291" vertical-scroll-proportion="0.0">
+        <state line="136" column="62" selection-start="6537" selection-end="6537" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -467,23 +506,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/schedule.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="231" column="146" selection-start="9878" selection-end="9878" vertical-scroll-proportion="-14.125">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="8" selection-start="724" selection-end="724" vertical-scroll-proportion="-8.75">
+        <state line="14" column="8" selection-start="724" selection-end="724" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/custom.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="113" column="17" selection-start="1836" selection-end="1836" vertical-scroll-proportion="0.9587217">
+        <state line="118" column="17" selection-start="1900" selection-end="1900" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/speakers/2013-10-10-keith-adams.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schedule.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="77" column="66" selection-start="2625" selection-end="2625" vertical-scroll-proportion="0.48184356">
           <folding />
         </state>
       </provider>
