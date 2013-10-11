@@ -113,3 +113,7 @@ img.company-logo {
 .mobile-info a:hover {
     color: #686868;
 }
+
+ul.team > li.one-third > a > img {
+    min-width: 300px;
+}

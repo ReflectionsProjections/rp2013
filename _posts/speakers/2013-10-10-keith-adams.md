@@ -1,7 +1,7 @@
 ---
 layout: speaker
 name: Keith Adams
-photo_url: /images/*
+photo_url: /images/speakers/keith-adams.jpg
 category: speakers
 one_line: Engineer, Facebook
 session: "The Two Camps of System Software"
